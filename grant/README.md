@@ -4,11 +4,11 @@ Darwinia Grant will focus on funding the development of the Darwinia ecosystem, 
 
 ## Amount
 
-Grant's maximum amount of incentives is USD7,500 (USDT/DAI/RING) per project.  
+Grant's maximum amount of incentives is USD6,000 (USDT/DAI/RING) per project.  
 
-USD 2,500(USDT/DAI/RING) or less will be approved the fastest. 
+USD 2,000(USDT/DAI/RING) or less will be approved the fastest. 
 
-Applications from USD2,500 to  USD7,500 (USDT/DAI/RING) will take longer to review.
+Applications from USD2,000 to  USD6,000 (USDT/DAI/RING) will take longer to review.
 
 ## Review
 
