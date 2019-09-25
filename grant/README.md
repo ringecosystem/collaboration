@@ -14,6 +14,13 @@ Applications from USD2,500 to  USD7,500 (USDT/DAI/RING) will take longer to revi
 
 Community Developers Committee will review the applications received to determine if more information is needed and may schedule a call with the team.Darwinia Foundation will inform applicants whether their proposal has been approved for funding.In most cases, we only accept applications for projects that can be completed within 3 months.
 
+## Areas of interest for grants
+
+Darwinia is interested in providing grants within the following areas of interest. If any of these topics are of interest to you then please make a speculative application to request funding for your project.
+- Creation and maintenance of development documents and Wiki for Darwinia
+- Maintain tool for substrate node
+- Security audit for Darwinia
+
 ## How to apply?
 
 You will need to submit a detailed application form that will contain at least the following: 
