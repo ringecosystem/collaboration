@@ -10,11 +10,7 @@ We only reward developers who submitted PR which fix issues and finally get merg
 
 ## Reward
 
-The reward level is divided into 3 levels:
-
-1. https://github.com/darwinia-network/darwinia/labels/X1-bounty USD150 (USDT/DAI/RING)
-2. https://github.com/darwinia-network/darwinia/labels/X2-bounty​ USD300 (USDT/DAI/RING)
-3. https://github.com/darwinia-network/darwinia/labels/X3-bounty​ USD450 (USDT/DAI/RING)
+We will tag different issues with different rewards. Most of the issue rewards range from $50 to $450. You can view the details on [gitcoin](https://gitcoin.co/).
 
 ## Code Contributing
 
