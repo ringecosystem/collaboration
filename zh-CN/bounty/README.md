@@ -10,11 +10,7 @@ Issue 分级与 fix review 初期将由代码库 Admin 完成，社区开发者�
 
 ## 奖励
 
-奖励级别分为3档：
-
-1. https://github.com/darwinia-network/darwinia/labels/X1-bounty 150 美元 (USDT/DAI/RING)
-2. https://github.com/darwinia-network/darwinia/labels/X2-bounty​ 300 美元 (USDT/DAI/RING)
-3. https://github.com/darwinia-network/darwinia/labels/X3-bounty​ 450 美元 (USDT/DAI/RING)
+我们会给不同的 issue 标记不同的奖励，大部分的 issue 奖励范围在$50~$450之间，你可以在[gitcoin](https://gitcoin.co/)上查看详细内容
 
 ## 代码贡献细则
 
