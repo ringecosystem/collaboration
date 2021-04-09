@@ -27,7 +27,7 @@ Anyone can become a liquidity provider (LP) for a pool by depositing an equivale
 * **Total Estimated Duration:** 4 weeks
 * **Total Costs:** 4000 USD + 4000 USD equivalent RING
 
-### Milestone 1
+#### Milestone 1
 
 * **Estimated Duration:** 2 weeks 
 * **Costs:** 4000 USD
@@ -39,7 +39,7 @@ Anyone can become a liquidity provider (LP) for a pool by depositing an equivale
 | 2. | UI design |
 | 3. | Dapp interface development |  
 
-### Milestone 2
+#### Milestone 2
 
 * **Estimated Duration:** 2 weeks 
 * **Costs:** 4000 USD
@@ -49,6 +49,15 @@ Anyone can become a liquidity provider (LP) for a pool by depositing an equivale
 | ------------- | ------------- |
 | 1.  | Backend service of analytics and historical data |
 | 2.  | Frontend interface of analytics and historical data|
+
+
+
+### Long-term plans and intentions
+| Number | Plan |
+| ------------- | ------------- |
+| 1. | NFT market |
+| 2. | Governance and Farming |
+
 
 ## Additional Information
 * Subswap is an infrastructure of DVM ecosystem. A lot of dapps will be build on Subswap. 
