@@ -12,16 +12,16 @@ A virtual account provides access to a list of allowed pools on the most popular
 
 ### Team
 
-Anton Dz. - Team Lead
-Anton J. - Head of Design department
-Veronica Z. - CMO
-Valeriia P. - CCO, Documentation
-Mariia D. - project-manager
-Daria P. - Head of Support department
-Alexander D. - CBO, Head of Analytics
-Danil S. - Web3 Engineer
-Oleg K. - DevOps
-Oksana D. - QA Engineer
+Anton Dz. - Team Lead  
+Anton J. - Head of Design department  
+Veronica Z. - CMO  
+Valeriia P. - CCO, Documentation  
+Mariia D. - project-manager  
+Daria P. - Head of Support department  
+Alexander D. - CBO, Head of Analytics  
+Danil S. - Web3 Engineer  
+Oleg K. - DevOps  
+Oksana D. - QA Engineer  
 
 
 
@@ -35,20 +35,20 @@ https://github.com/platinum-engineering/x5margin-smart
 
 ### Development Roadmap
 
-Already done - 
+Already done -   
 
-Chosen concept;
-Structured team of developers, designers, managers and marketing strategists;
-Design and visualization;
-Mechanizm for shadow staking of native token;
+Chosen concept;  
+Structured team of developers, designers, managers and marketing strategists;  
+Design and visualization;  
+Mechanizm for shadow staking of native token;  
 
-Coming Soon - 
+Coming Soon -   
 
-Integration with Chainlink - a decentralized oracle network that gives smart contracts secure and reliable access to data providers, web APIs, enterprise systems, cloud providers, IoT devices, payment systems, other blockchains and much more;
-Development of v1 with 5x leverage; 
-Traider margin call service;
-Ability to add collateral to a position;
-Development of platform for trading with different leverages;
+Integration with Chainlink - a decentralized oracle network that gives smart contracts secure and reliable access to data providers, web APIs, enterprise systems, cloud providers, IoT devices, payment systems, other blockchains and much more;  
+Development of v1 with 5x leverage;   
+Traider margin call service;  
+Ability to add collateral to a position;  
+Development of platform for trading with different leverages;  
 Integration of 2 simple strategies: buy/long and sell/short
 
 
