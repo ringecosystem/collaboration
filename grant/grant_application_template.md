@@ -1,4 +1,3 @@
-# Darwinia Grant Template
 
 ## 5x Margin Tool
 
