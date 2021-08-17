@@ -48,3 +48,17 @@ in order to successfully receive grant funding, the project must have open sourc
 ### Document
 
 To ensure ease of use, we require all projects to create documentation to explain how their projects work, and we recommend providing tutorials or videos to help new users learn more.
+
+### Checklist
+
+Following is a checklist for relevant information included in the application:
+
+- [] Name of the project
+- [] Link to the open-source code/delivery
+- [] Licence 
+- [] Amount requested
+- [] Relevance to Darwinia
+- [] Documentation or Tutorial
+- [] Testing guide or means of verification
+- [] A list of milestone of deliverables
+- [] Any additional information
