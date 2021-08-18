@@ -35,47 +35,52 @@ https://github.com/platinum-engineering/x5margin-smart
 
 ### Development Roadmap
 
-Already done -   
-
-Chosen concept
-Structured team of developers, designers, managers and marketing strategists
-Structured Design & Visualisation of 1st and 2nd version
-Mechanism for shadow staking of native token
-Development of smart contracts for liquidity pool 0.1.0
-Development of smart contracts for opening leverage position 0.1.0
-Chainlink price integration
-Rinkeby testnet
-Connection of Deposit/Withdrawal interface
-Creating pools for providing liquidity
-Creating liquidation mechanism
-5X rebranded to Marnotaur
-
-Coming soon -  
-Testing of smart contracts
-Adding function to borrow funds
-Implementation on EVM-chains
-Adding Ethereum, Binance Smart Chain
-Mainnet launch
-Importing code to mainnet
-Incentivized testnet
- [PUBLIC ALPHA]
-Implementing limits for deposits, up to $10
-Liquidation tests
-Adding Ethereum, Binance Smart Chain
-[PUBLIC BETA]
-Implementing limits for deposits, up to $100
-Liquidation tests
-Adding Polygon, Avalanche
-[PUBLIC GAMMA]
-Implementing limits for deposits, up to $1000
-Liquidation tests
-Adding permissionless pools - [ALPHA]
-Adding leveraged farming - [ALPHA]
-Adding HECO, Solana
-[PUBLIC LIVE]
-Adding Moonbeam, Cardano, Near
-Adding permissionless pools - [BETA]
-Adding leveraged farming - [BETA]
+  Already done -     
+  Chosen concept  
+  Structured team of developers, designers, managers and marketing strategists  
+  Structured Design & Visualisation of 1st and 2nd version    
+  Mechanism for shadow staking of native token    
+  Development of smart contracts for liquidity pool 0.1.0  
+  Development of smart contracts for opening leverage position 0.1.0  
+  Chainlink price integration    
+  Rinkeby testnet  
+  Connection of Deposit/Withdrawal interface  
+  Creating pools for providing liquidity  
+  Creating liquidation mechanism  
+  5X rebranded to Marnotaur
+  
+  
+  Coming soon -    
+  Testing of smart contracts  
+  Adding function to borrow funds  
+  Implementation on EVM-chains  
+  Adding Ethereum, Binance Smart Chain  
+  Mainnet launch  
+  Importing code to mainnet  
+  Incentivized testnet
+  
+   [PUBLIC ALPHA]
+  Implementing limits for deposits, up to $10  
+  Liquidation tests  
+  Adding Ethereum, Binance Smart Chain
+  
+  [PUBLIC BETA]
+  Implementing limits for deposits, up to $100  
+  Liquidation tests  
+  Adding Polygon, Avalanche
+  
+  [PUBLIC GAMMA]
+  Implementing limits for deposits, up to $1000  
+  Liquidation tests  
+  Adding permissionless pools - [ALPHA]  
+  Adding leveraged farming - [ALPHA]  
+  Adding HECO, Solana
+  
+  [PUBLIC LIVE]
+  Adding Moonbeam, Cardano, Near  
+  Adding permissionless pools - [BETA]  
+  Adding leveraged farming - [BETA]
+  
 
 
 
