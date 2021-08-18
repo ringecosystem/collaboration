@@ -1,24 +1,24 @@
 
 
-## 5x Margin Tool
+## Marnotaur
 
 ### Project Description
 
-5x Margin Tool is designed as a gas-effective, under-collateralized protocol for margin trading and yield farming purposes. It provides LPs with a good chance of earning high APY and traders with a convenient virtual account that offers 5x leverage trading options.
+Marnotaur is designed as a gas-effective, under-collateralized protocol for margin trading and yield farming purposes. It provides LPs with a good chance of earning high APY and traders with a convenient virtual account that offers 5x leverage trading options.
 
-A virtual account provides access to a list of allowed pools on the most popular decentralized exchanges (Uniswap, SushiSwap, 1inch), where traders can buy & sell any asset. They are also welcome to use funds for whitelisted yield farming projects. There is no open access to the funds as they are safely kept in the Margin Tool contracts.
+A virtual account provides access to a list of allowed pools on the most popular decentralized exchanges (Uniswap, SushiSwap, 1inch), where traders can buy & sell any asset. They are also welcome to use funds for whitelisted yield farming projects. There is no open access to the funds as they are safely kept in the Marnotaur contracts.
 
 
 
 ### Team
 
-Anton Dz. - Team Lead  
+Anton Dz. - Chief architect
+Mariia D. - project-manager  
+Alex D. - CBO, head of analytics
 Anton J. - Head of Design department  
 Veronica Z. - CMO  
 Valeriia P. - CCO, Documentation  
-Mariia D. - project-manager  
 Daria P. - Head of Support department  
-Alexander D. - CBO, Head of Analytics  
 Danil S. - Web3 Engineer  
 Oleg K. - DevOps  
 Oksana D. - QA Engineer  
@@ -37,19 +37,47 @@ https://github.com/platinum-engineering/x5margin-smart
 
 Already done -   
 
-Chosen concept;  
-Structured team of developers, designers, managers and marketing strategists;  
-Design and visualization;  
-Mechanizm for shadow staking of native token;  
+Chosen concept
+Structured team of developers, designers, managers and marketing strategists
+Structured Design & Visualisation of 1st and 2nd version
+Mechanism for shadow staking of native token
+Development of smart contracts for liquidity pool 0.1.0
+Development of smart contracts for opening leverage position 0.1.0
+Chainlink price integration
+Rinkeby testnet
+Connection of Deposit/Withdrawal interface
+Creating pools for providing liquidity
+Creating liquidation mechanism
+5X rebranded to Marnotaur
 
-Coming Soon -   
+Coming soon -  
+Testing of smart contracts
+Adding function to borrow funds
+Implementation on EVM-chains
+Adding Ethereum, Binance Smart Chain
+Mainnet launch
+Importing code to mainnet
+Incentivized testnet
+ [PUBLIC ALPHA]
+Implementing limits for deposits, up to $10
+Liquidation tests
+Adding Ethereum, Binance Smart Chain
+[PUBLIC BETA]
+Implementing limits for deposits, up to $100
+Liquidation tests
+Adding Polygon, Avalanche
+[PUBLIC GAMMA]
+Implementing limits for deposits, up to $1000
+Liquidation tests
+Adding permissionless pools - [ALPHA]
+Adding leveraged farming - [ALPHA]
+Adding HECO, Solana
+[PUBLIC LIVE]
+Adding Moonbeam, Cardano, Near
+Adding permissionless pools - [BETA]
+Adding leveraged farming - [BETA]
 
-Integration with Chainlink - a decentralized oracle network that gives smart contracts secure and reliable access to data providers, web APIs, enterprise systems, cloud providers, IoT devices, payment systems, other blockchains and much more;  
-Development of v1 with 5x leverage;   
-Traider margin call service;  
-Ability to add collateral to a position;  
-Development of platform for trading with different leverages;  
-Integration of 2 simple strategies: buy/long and sell/short
+
 
 ### Darwinia Ecosystem contribution
 
