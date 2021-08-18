@@ -54,3 +54,5 @@ Integration of 2 simple strategies: buy/long and sell/short
 ### Darwinia Ecosystem contribution
 
 We can contribute to the Darwinia Ecosystem by creating useful open-source margin trading tool and provide this DeFi lego block to the community. Anyone can fork improve our code and this is win-win cooperation.
+### Requested amount
+The requesed amount for grant is: 30000 USD.
