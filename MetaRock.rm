@@ -31,7 +31,7 @@ bringing utility to Ring and Crab.
 
 ### How you will integrate this project into Darwinia:
 in the early stages Metarock will use the rmrk1.0 shortly followed by rmrk2.0 and ERC 721 Metarock is already minting NTFs on the Crab and Pangolin Blockchain 
-with Plans to build a community backed Liquidity pool to help build the communities local liquidity. Once our Beta is released we will enable the community 
+with Plans to build a community backed Liquidity pool to help build the communities local Dex liquidity. Once our Beta is released we will enable the community 
 and Darwinia to start minting and selling NFTs 
 
 
@@ -60,57 +60,50 @@ Currently Metarock has no defined legal structure other then a Dapp created by  
 
 MetaRock Beta: ( current )
 
-Platform testing and UI/UX optimisation 
-Seed funding round
-MVP (minimum viable Product ) realworld ordering system
-Basic NFT scan tool
-AR/VR mobile capabilities 
-3D assist display capabilities 
-MetaClone Tool ( cloning tool used to clone Parent NFTs as they are sold )
+- Platform testing and UI/UX optimisation 
+- Basic NFT scan tool
+- AR/VR mobile capabilities 
+- 3D assist display capabilities 
+- Buy, Sell, Distroy and send fuctions
+
 
 Bellow is Meta Rocks long term draft roadmap which has been displayed to indicate our direction over the next 1-3 years and is not to be used to measure the 
 completion of the Darwinia Collaboration grant. 
 
 MetaRock 1.0:  
-
-Build on Numoriouse Blockchains and allow the Community to start selling items in their currency and generate their own income within that ecosystem.
-Plug into metaverses allowing users to sell items in games and designers to sell Skins and ingame items.
-Commence building DeFi Liquidity pools allowing buyers to buy in any currency and sellers to receive any currency as payment.
+- MetaClone Tool ( cloning tool used to clone Parent NFTs as they are sold )
+- Build on Numoriouse Blockchains and allow the Community to start selling items in their currency and generate their own income within that ecosystem.
+- Plug into metaverses allowing users to sell items in games and designers to sell Skins and ingame items.
+- Commence building DeFi Liquidity pools allowing buyers to buy in any currency and sellers to receive any currency as payment.
 
 Metarock 2.0: 
 
-Liquidity pools 
-Currency exchange allows sellers to receive funds in a specific currency and buyers to use a specific currency to make purchases. 
-Referral based NFT sales smart contracts
-Royalties 
-NFT based access into Advance Minting Platform. 
-
+- Liquidity pools 
+- Currency exchange allows sellers to receive funds in a specific currency and buyers to use a specific currency to make purchases. 
+- Referral based NFT sales smart contracts
+- Royalties 
+- NFT based access into Advance Minting Platform. 
 
 
 MetaRock 3.0:
 
-Income tracking system / Profit and Loss report
-Onchian Profiles 
-Consist of smart contract based NFTs and goods ordering system. 
-Insurance 
-Privacy functions 
+- Income tracking system / Profit and Loss report
+- Onchian Profiles 
+- Consist of smart contract based NFTs and goods ordering system. 
+- Insurance 
+- Privacy functions 
 
 
 
 
 Please provide the following:
 
-- For each milestone:
-- The specification of the software achieved after completion of each milestone. The level of detail must be high enough so that we are able to test 
-  that the software meets the specification.
-- For applications with public financial information, please include total amount of funding requested per milestone. Funding can be in fiat (USDT or Dai ) 
-  or in RING. It can also be in a combination of fiat and RING. 
-- A schedule indicating when each milestone will be achieved.
-- The team's long-term plans and intentions
+
+## Colabriation Funding  
+- 6,000USD issued in RING once Marketplace has released and MetaRock.app Beta version is released ( Mid January 2022 )
 
 
-
-### Additional Information
+information
 
 To trial our pre Beta product please go to: MetaRock.app
 You will need the following:
