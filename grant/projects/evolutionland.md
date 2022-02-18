@@ -51,7 +51,8 @@ Evolution Land will provide the following to Darwinia and Crab community:
 
 ## Evolution Land **Beta Version:**
 
-The beta version of Evolution Land is what is applying for CRAB grant program, and the delivery scope has:
+The beta version of Evolution Land is what is applying for CRAB grant program ( [Preview Link](https://www.evolution.land.l2me.com/land/3)
+), and the delivery scope has:
 
 - Basic mining gameplay including drills and apostles mining functions
 - Apostle Adventure - PVE gameplay
