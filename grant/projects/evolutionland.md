@@ -11,13 +11,13 @@ Evolution Land integrates various gameplays, including management, collection, e
 
 ### **Why is this project is good for the Crab ecosystem:**
 
-1. Evolution Land is the first build GameFi project on Crab Smart Chain. Evolution Land has been built on four network - Ethereum, Tron, HECO, and Polygon. Each of them have at least 200,000+ $RING TVL. It will definately bring more TVL on Crab Smart Chain.
-2. Evolution Land have 1000+ DAU from HECO, Ethereum, Tron, and Polygon. And will build on BSC and Moonriver in the future. It could introduce more users and assets from other chains.
+1. Evolution Land is the first build GameFi project on Crab Smart Chain. Evolution Land has been built on four networks - Ethereum, Tron, HECO, and Polygon. Each of them has at least 200,000+ $RING TVL. It will definately bring more TVL on Crab Smart Chain.
+2. Evolution Land has 1000+ DAU from HECO, Ethereum, Tron, and Polygon. And will build on BSC and Moonriver in the future. It could introduce more users and assets from other chains.
 3. Multi-chain and cross-chain is an important gameplay on Evolution Land. This point is similar to the Darwinia Bridge.
 
 ### **How you will integrate this project into Crab:**
 
-Evolution Land will take the advantage of EVM module on Crab Smart Chain. We will deploy our contract(ERC20, ERC721, ERC1155) on CSC. We alreay deployed our alpha version for testing. Once our beta is released we will enable the community and Darwinia to start minting and playing.
+Evolution Land will take the advantage of EVM module on Crab Smart Chain. We will deploy our contract(ERC20, ERC721, ERC1155) on CSC. We already deployed our alpha version for testing. Once our beta is released we will enable the community and Darwinia to start minting and playing.
 
 ### **Team**
 
@@ -45,7 +45,7 @@ Currently Evolution Land has no defined legal structure other then a Dapp create
 Evolution Land will provide the following to Darwinia and Crab community:
 
 - Latest version including PVE, equipment, and profession gameplay
-- Continously update on Columbus continent
+- Continuously update on Columbus continent
 - Farm pool for users to stake $xRING
 - 70% of profit will return to users
 
@@ -56,7 +56,7 @@ The beta version of Evolution Land is what is applying for CRAB grant program ( 
 
 - Basic mining gameplay including drills and apostles mining functions
 - Apostle Adventure - PVE gameplay
-- Furnance System - First NFT + FT Gamefi gameplay
+- Furnace System - First NFT + FT Gamefi gameplay
 - Buy, sell, destroy and send functions
 - Apostle breeding system
 - Profession system
@@ -69,7 +69,7 @@ The following milestones are not included in the collaboration grant assessment 
 
 - Basic mining gameplay including drills and apostles mining functions
 - Apostle Adventure - PVE gameplay
-- Furnance System - First NFT + FT Gamefi gameplay
+- Furnace System - First NFT + FT Gamefi gameplay
 - Buy, sell, and send functions
 - Apostle breeding system
 - Profession system
@@ -108,7 +108,7 @@ To trial our pre-beta product please go to: Evolution Land. You will need the fo
 
 ### **What work has been done so far?**
 
-Evolution Land's minimum viable Product has been made and is nearing its beta testing phase which is to be tested by the Darwinia community in end of Feb 2022.
+Evolution Land's minimum viable Product has been made and is nearing its beta testing phase which is to be tested by the Darwinia community In the end of Feb 2022.
 
 ### **Are there any teams who have already contributed (financially) to the project?**
 
