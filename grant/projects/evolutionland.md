@@ -33,7 +33,20 @@ Currently Evolution Land has no defined legal structure other then a Dapp create
 
 ## **Team Code Repos**
 
-- [https://github.com/evolutionlandorg](https://github.com/evolutionlandorg) (Evolution Land)
+- Project Repo
+[https://github.com/evolutionlandorg](https://github.com/evolutionlandorg) (Evolution Land)
+
+- Contracts' Repo
+https://github.com/evolutionlandorg/apostle
+https://github.com/evolutionlandorg/common-contracts
+https://github.com/evolutionlandorg/furnace
+https://github.com/evolutionlandorg/governance
+https://github.com/evolutionlandorg/land
+https://github.com/evolutionlandorg/market-contracts
+https://github.com/evolutionlandorg/pve
+https://github.com/evolutionlandorg/raffle
+https://github.com/evolutionlandorg/staker
+https://github.com/evolutionlandorg/token-contracts
 
 ## **Collaborative Grant Proposal and Current Development**
 
@@ -106,6 +119,7 @@ To trial our pre-beta product please go to: Evolution Land. You will need the fo
 
 - Metamask or EVM related wallet
 - Crab for gas and xRING for purchase
+
 
 ### **What work has been done so far?**
 
