@@ -74,6 +74,9 @@ The half is paid in RING to the value of $2,500 USD. The ratio of RING to determ
 
 The payment date: When the PR is merged and crab.subview.xyz start service for Crab Network.
 
+Darwinia Network Address (RING): 5HVmAxfakqty9prcZqh77DH7pgBW7QJgvMBcXfCZxjCP6gSC
+TRON Network Address (USDT): TZCX7Q99n7Cb1qLj8Vg88xonb9nqi1uJmo
+
 
 ## **Additional Information**
 
