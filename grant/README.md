@@ -2,6 +2,22 @@
 
 ![t](https://user-images.githubusercontent.com/1608576/185069346-6ed2feb6-3002-4fe8-b43a-9071b73018c1.jpg)
 
+- [Darwinia Foundation Grants Program](#darwinia-foundation-grants-program)
+- [👋Introduction](#introduction)
+  - [Guidelines](#guidelines)
+  - [Project ideas](#project-ideas)
+- [🪜Levels](#levels)
+    - [Level 1](#level-1)
+    - [Level 2](#level-2)
+- [🎦Progress](#progress)
+    - [Application](#application)
+    - [Application Review](#application-review)
+    - [****Milestone Delivery and Payment****](#milestone-delivery-and-payment)
+- [🍻Alternative Fundings Sources](#alternative-fundings-sources)
+  - [Treasury](#treasury)
+    - [Progress](#progress-1)
+  - [Hackathons](#hackathons)
+
 # 👋Introduction
 
 To fund the development of projects and applications that contribute to the Darwinia/Crab ecosystem and promote overall network growth, we encourage passionate teams to build innovative, interconnected projects on Darwinia/Crab and reward use cases with application scenarios. For more information about the Darwinia Network and Crab Network, please visit the [Darwinia website](https://darwinia.network/) and [Crab website](https://crab.network/#/).
@@ -92,20 +108,12 @@ The funds held in Darwinia's on-chain treasury can be spent on spending proposal
 ### Progress
 
 1. Start the conversation. Download Telegram if you don’t already have it, join the [Darwinia Technical](https://t.me/DarwiniaDev) channel, and ask the team for feedback on your proposal idea.
-2. Draft your proposal. Your proposal should address a problem, outline a goal, give a detailed account of how you will reach that goal, and include any ongoing maintenance needs. As much as possible, you should itemize the tasks to be completed so fees can be evaluated and milestones can be followed. A proposal template can be found [here](https://www.notion.so/Darwinia-Foundation-Grant-Program-Darwinia-Proposal-Template-8bdd256b00f84155906f95a94c669941).
+2. Draft your proposal. Your proposal should address a problem, outline a goal, give a detailed account of how you will reach that goal, and include any ongoing maintenance needs. As much as possible, you should itemize the tasks to be completed so fees can be evaluated and milestones can be followed. A proposal template can be found [here](./darwinia_treasury_proposal_template.md).
 3. Publish your proposal. Post your proposal on [Subsquare](https://crab.subsquare.io/discussions). Once published, share the link to your proposal in the [Darwinia Technical](https://t.me/DarwiniaDev) channel for feedback. Be prepared to answer questions.
 4. Revise your proposal. Incorporate the feedback received and revise your proposal accordingly.
-5. Submit it on-chain. ****If your proposal has enough support or accepts by Darwinia team, submit it [on-chain](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.darwinia.network#/treasury) for a vote. Please refer to the section [creating-the-proposal](https://wiki.polkadot.network/docs/learn-treasury#creating-the-proposal) of the Polkadot wiki. The process of submitting an on-chain proposal in Darwinia is the same as that in Polkadot, you just need to switch to [the treasury tab of Darwinia Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.darwinia.network#/treasury) and perform the same operation. Once the proposal was created, your proposal will become visible in the Treasury screen and the council can start voting on it.
+5. Submit it on-chain. If your proposal has enough support or accepts by Darwinia team, submit it [on-chain](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.darwinia.network#/treasury) for a vote. Please refer to the section [creating-the-proposal](https://wiki.polkadot.network/docs/learn-treasury#creating-the-proposal) of the Polkadot wiki. The process of submitting an on-chain proposal in Darwinia is the same as that in Polkadot, you just need to switch to [the treasury tab of Darwinia Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.darwinia.network#/treasury) and perform the same operation. Once the proposal was created, your proposal will become visible in the Treasury screen and the council can start voting on it.
 6. Report back on your progress. Be sure to report back to the community [on Subsquare](https://crab.subsquare.io/discussions) on the progress your project makes, showing relevant deliverables, results, links to work done, and any success metrics if relevant if your proposal includes multiple milestones. This is crucial for ensuring accountability and community alignment, particularly if you want to continue working with treasury funds in the future.
 
 ## Hackathons
 
 The best way to find out about upcoming hackathons is by following Darwinia on various social channels, such as [Twitter](https://twitter.com/DarwiniaNetwork) or [Medium](https://medium.com/darwinianetwork).
-
-# About Darwinia & Crab
-
-[Github](https://github.com/darwinia-network) | [Website](https://darwinia.network/) | [Medium](https://medium.com/darwinianetwork) | [Twitter](https://twitter.com/DarwiniaNetwork) | [Telegram](https://t.me/DarwiniaNetwork)
-
-[Darwinia](https://darwinia.network/) is a cross-chain messaging infrastructure, which provides a light client-based, programmable, universal cross-chain messaging network for decentralized applications. Now, we’ve successfully used [Darwinia’s light-client cross-chain messaging protocol(LCMP)](https://docs.darwinia.network/lcmp-overview) to bridge cross-chain messages between substrate-based chains, and even between substrate-based chains and EVM chains, meanwhile, Darwinia provides developers with the [SDK](https://docs.darwinia.network/sdk/api-reference), and developers can easily integrate cross-chain capabilities into their Dapps. This will have profound implications for cross-chain interoperability, and Darwinia will as a cross-chain messaging infrastructure to prompt the building of a hybrid cross-chain network for Polkadot.
-
-[Crab](https://crab.network/) is a canary network with real economic value for [Darwinia](https://darwinia.network/), positioning similar to Polkadot's Kusama Network, which is a programmable cross-chain platform for Dapps. It is substrate-based, EVM-compatible, and connected to Kusama.
