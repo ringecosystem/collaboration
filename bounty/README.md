@@ -14,7 +14,7 @@ We will tag different issues with different rewards. Most of the issue rewards r
 
 ## Code Contributing
 
-Please refer to this [document](https://github.com/darwinia-network/darwinia/blob/develop/CONTRIBUTING.adoc) for specific contributing rules.
+Please refer to this [document](https://github.com/darwinia-network/darwinia/blob/main/docs/CONTRIBUTING.adoc) for specific contributing rules.
 
 ## License
 
