@@ -6,7 +6,7 @@
   - [**Project name**](#project-name)
     - [**Project Description**](#project-description)
     - [**Team**](#team)
-    - [**Legal Structure**](#legal-structure)
+    - [**Applicant Identity**](#applicant-identity)
     - [**Team Code Repos**](#team-code-repos)
     - [**Development Roadmap**](#development-roadmap)
     - [**Additional Information**](#additional-information)
