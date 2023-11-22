@@ -16,7 +16,6 @@
 Please provide the following:
 
 - Proposal: [TITLE OF PROPOSAL]
-- Proponent: [Darwinia Address] *(Consider using the identity pallet on your address before submission of the proposal, this allows more certainty during the voting process)*
 - Date: DD.MM.YYYY
 - Requested RING: ** RING
 
