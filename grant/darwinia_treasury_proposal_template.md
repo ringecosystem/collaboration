@@ -36,9 +36,9 @@ Please provide the following:
 - A brief description of team background.
 - Names and contact details of team members.
 
-### **Legal Structure**
+### **Applicant Identity(Optional)**
 
-Please provide the name and registered address of the legal entity executing the project. These details can also be shared privately via the Google Form used for your application.
+Please tell the applicant's identity information, whether it is an individual, company or DAO. This is optional, but more information may help in the review.
 
 ### **Team Code Repos**
 
