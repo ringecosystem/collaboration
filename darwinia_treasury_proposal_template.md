@@ -38,7 +38,7 @@ Please provide the following:
 
 ### **Applicant Identity(Optional)**
 
-Please tell the applicant's identity information, whether it is an individual, company or DAO. This is optional, but more information may help in the review.
+Please tell the applicant's identity information, is it an individual, company or DAO? This is optional, but more information may help in the review.
 
 ### **Team Code Repos**
 
