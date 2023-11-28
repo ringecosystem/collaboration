@@ -103,16 +103,7 @@ We encourage you to explore the alternative funding options listed below. Please
 
 ## Treasury
 
-The funds held in Darwinia's on-chain treasury can be spent on spending proposals. Darwinia offers everyone the opportunity to apply for funding via the treasury. Treasury funds can be allocated via on-chain governance in three ways: proposals, bounties, and tips. General proposals are the best method when a person or team has an idea for a project that they would like to complete, earning **RING** in return. Proposers need to put together a detailed plan for the project and the desired budget, and submit the proposal for an on-chain council vote.
-
-### Progress
-
-1. Start the conversation. Download Telegram if you don’t already have it, join the [Darwinia Technical](https://t.me/DarwiniaDev) channel, and ask the team for feedback on your proposal idea.
-2. Draft your proposal. Your proposal should address a problem, outline a goal, give a detailed account of how you will reach that goal, and include any ongoing maintenance needs. As much as possible, you should itemize the tasks to be completed so fees can be evaluated and milestones can be followed. A proposal template can be found [here](./darwinia_treasury_proposal_template.md).
-3. Publish your proposal. Post your proposal on [Subsquare](https://crab.subsquare.io/discussions). Once published, share the link to your proposal in the [Darwinia Technical](https://t.me/DarwiniaDev) channel for feedback. Be prepared to answer questions.
-4. Revise your proposal. Incorporate the feedback received and revise your proposal accordingly.
-5. Submit it on-chain. If your proposal has enough support or accepts by Darwinia team, submit it [on-chain](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.darwinia.network#/treasury) for a vote. Please refer to the section [creating-the-proposal](https://wiki.polkadot.network/docs/learn-treasury#creating-the-proposal) of the Polkadot wiki. The process of submitting an on-chain proposal in Darwinia is the same as that in Polkadot, you just need to switch to [the treasury tab of Darwinia Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.darwinia.network#/treasury) and perform the same operation. Once the proposal was created, your proposal will become visible in the Treasury screen and the council can start voting on it.
-6. Report back on your progress. Be sure to report back to the community [on Subsquare](https://crab.subsquare.io/discussions) on the progress your project makes, showing relevant deliverables, results, links to work done, and any success metrics if relevant if your proposal includes multiple milestones. This is crucial for ensuring accountability and community alignment, particularly if you want to continue working with treasury funds in the future.
+Funds held in Darwinia's on-chain treasury (0x6D6f646c64612f74727372790000000000000000) are accessible for spending proposals. Teams/individuals can request funding from the Darwinia treasury account by submitting either a democracy proposal or a treasury proposal. (Following the removal of the Sudo module during a runtime upgrade on June 13, 2023, the governance of the chain transitioned to the token (RING) holders. Consequently, network control solely resides in the hands of token holders, free from centralized authority.)
 
 ## Hackathons
 
