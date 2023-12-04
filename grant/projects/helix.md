@@ -49,16 +49,25 @@ This version maps Darwinia Network's RING and KTON to the Ethereum Network, havi
 ### **Helix LnBridge V1.0 (Already Launched)**
 This version is live between Darwinia and Ethereum, reducing user cross-chain costs and improving transaction speed. Security has been enhanced to a certain extent. This version would be upgrade to V3.0 near future.
 
+- Introducing liquidity to reduce reliance on asset issuance solution.
+- Safer and faster.
+
 ### **Helix LnBridge V2.0 (Already Launched)**
 This version is live between Darwinia and Arbitrum, further lowering user cross-chain costs through a collateral mechanism. It connects Darwinia to the Ethereum Layer 2 network.
 
+- The collateral is introduced in this version.
+- Less use of generic messages.
+
 ### **Helix LnBridge V3.0 (Not Launched Yet)**
 This version enhances user cross-chain transaction depth by removing the collateral mechanism. This update is designed to streamline the cross-chain experience and reduce relayer pledging costs.
+
+- Introduced Penalty reserve to reduce relayer's pledge costs and further enhance its own security.
 
 ## **Future Development Roadmap**
 The following milestones are not included in the collaboration grant assessment and are included to communicate Helix Bridge team's vision and direction.
 
 - Helix 3.0: represents a comprehensive solution that integrates xToken, LnBridge v2.0, and LnBridge v3.0, running concurrently and complementing each other.
+- Upgrade xToken solution to be more generic and adaptable and ensure compatibility with various networks.
 - Achieve full interconnection of connected networks, reducing user asset cross-chain path lengths.
 - Helix Dao
 - Asset monitoring, user data analysis
