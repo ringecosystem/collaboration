@@ -61,13 +61,20 @@ Projects which support the ecosystem through a wide range of use cases, such as 
 
 ### Level 1
 
-- Amount: Up to $2,000
-- Target: Individuals & small teams
+- Amount: Up to $5,000
+- Target: Individuals & Small Teams
+- Submission of a detailed project proposal, including expected outcomes and a timeline.
+- Demonstration of successful past projects as evidence of execution capability.
+- Provision of a clear budget plan, explaining how the funds will be effectively utilized.
 
 ### Level 2
 
-- Amount: Up to $6,000
-- Target: Small teams & start-ups
+- Amount: Up to $30,000
+- Target: Small Teams & Start-ups
+- Need for a more comprehensive project plan, including market analysis, potential impact, and risk assessment.
+- Submission of detailed background information on team members, including relevant experience and skills.
+- Presentation of at least one previous successful case related to the proposed project.
+- Provision of a detailed funding usage plan and a long-term sustainability strategy.
 
 If your project is complicated and you feel that it is not suitable to use the above levels, you can communicate with our team to determine the grant amount.
 
