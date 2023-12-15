@@ -6,7 +6,7 @@ SubAPI DAO is targeting to be a SubDAO of Darwinia, working on Oracle and API in
 
 ### **Why is this project good for the Darwinia ecosystem**
 
-SubAPI DAO is an independent organization that provides Oracle solutions for Msgport and is a key component of the Msgport ORMP protocol.
+SubAPI DAO is an independent organization that provides Oracle solutions for Msgport and is used by Darwinia Msgport as the default oracle component.
 
 ### **How you will integrate this project into Darwinia**
 
@@ -52,7 +52,9 @@ The following milestones are not included in the collaboration grant assessment 
 
 ## **Collaboration Funding**
 
-Total funding amount: 1 ETH.
+Total funding amount: 1 ETH
+SubAPI DAO address: 0x00000000096c285629Fe3EAb3dd042c27b9dcBa6
+Network: Ethereum
 
 The fund, paid in ETH, is dedicated to supporting Airnode in responding to gas price fluctuations on the Ethereum network. With this funding, SubAPI aims to reduce the cost for dApps to use Msgport on the Ethereum network. Gas prices can be set at an average value to charge users, eliminating the need for excessively high fees to ensure the normal fulfillment of Airnode.
 
