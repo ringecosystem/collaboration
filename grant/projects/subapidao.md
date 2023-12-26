@@ -53,7 +53,7 @@ The following milestones are not included in the collaboration grant assessment 
 ## **Collaboration Funding**
 
 Total funding amount: 1 ETH
-SubAPI DAO address: 0x00000000096c285629Fe3EAb3dd042c27b9dcBa6
+SubAPI DAO address: 0x000000000a0D8ac9cc6CbD817fA77090322FF29d
 Network: Ethereum
 
 The fund, paid in ETH, is dedicated to supporting Airnode in responding to gas price fluctuations on the Ethereum network. With this funding, SubAPI aims to reduce the cost for dApps to use Msgport on the Ethereum network. Gas prices can be set at an average value to charge users, eliminating the need for excessively high fees to ensure the normal fulfillment of Airnode.
