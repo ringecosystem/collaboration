@@ -77,7 +77,7 @@ Total funding amount: 3 ETH and 9,000,000 RING.
 
 The first fund, paid in ETH, is dedicated to supporting Helix Bridge's network deployment expenses. With this funding, Helix aims to maximize cross-chain interconnectivity, minimizing the pathways to link the Darwinia Network with other ecosystems. The primary objective is to establish as many connections as possible, ensuring a robust and comprehensive network that facilitates seamless asset transfer.The second fund, paid in RING, will be utilized to provide liquidity support for RING assets. Helix Bridge commits not to expend this fund but rather engage in long-term staking to offer liquidity. The focus is on sustaining a continuous and stable provision of liquidity, contributing to the overall health and functionality of the Helix Bridge ecosystem.
 
-The 1st payment date: After Helix completes the Darwinia to Ethereum xToken business upgrade PR merge, with the address being 0x000000000f681D85374225EdEeADC25560C1fb3F on Arbitrum or Ethereum.
+The 1st payment date: After Helix completes the Darwinia to Ethereum xToken business upgrade PR merge, with the address being 0x0000000003e13107f55D8fb44897F631DA4e60CC on Arbitrum or Ethereum.
 
 The 2nd payment date: After Helix completes the LnBridge v3 launch, with the address being 0x000000000f681D85374225EdEeADC25560C1fb3F on Darwinia network.
 
