@@ -22,7 +22,7 @@ Here is the approximate standard:
 
   low: 100, 000 RING,
   medium: 300,000 RING,
-  high: >= 1000, 000 RING
+  high: >= 1, 000, 000 RING
 
 ## Code Contributing
 
