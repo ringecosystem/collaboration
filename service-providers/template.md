@@ -1,6 +1,6 @@
 # Name of your Company
 
-> A service provider is a comany that offers services that Darwinia requires, such as development services, design services, audit services, etc.
+> A service provider is a company that offers services that Darwinia requires, such as development services, design services, audit services, etc.
 >
 > Fork this repo and submit a Pull Request to create a service provider here.
 >
