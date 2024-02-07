@@ -16,13 +16,13 @@ We only reward developers who submitted bugs or PR which fix issues and finally 
 
 ## Reward
 
-We will tag different issues with different rewards. Most of the issue rewards range from 10, 000 RING to 100, 000 RING.
+We will tag different issues with different rewards. Most of the issue rewards range from 10K RING to 1M RING.
 
 Here is the approximate standard:
 
-  low: 100, 000 RING,
-  medium: 300,000 RING,
-  high: >= 1, 000, 000 RING
+  low: 100K RING,
+  medium: 300K RING,
+  high: >= 1M RING
 
 ## Code Contributing
 
