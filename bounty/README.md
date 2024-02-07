@@ -20,9 +20,9 @@ We will tag different issues with different rewards. Most of the issue rewards r
 
 Here is the approximate standard:
 
-  low: 10, 000 RING,
-  medium: 30,000 RING,
-  high: >= 100, 000 RING
+  low: 100, 000 RING,
+  medium: 300,000 RING,
+  high: >= 1000, 000 RING
 
 ## Code Contributing
 
