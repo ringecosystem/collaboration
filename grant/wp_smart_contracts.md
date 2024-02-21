@@ -20,15 +20,15 @@ At WP Smart Contracts, we pride ourselves on offering unique features and capabi
 
 WP Smart Contracts stands out through its pioneering leadership, extensive smart contracts catalog, and comprehensive Web3 solution, reaffirming our commitment to advancing blockchain integration within the WordPress ecosystem.
 
-#### Benefits for Zilhive
+#### Benefits for Darwinia
 
-The Open WP Smart Contracts plugin serves as a tool, facilitating the deployment and management of smart contracts within Zilhive ecosystem. Below, we delve into the core benefits of incorporating this plugin into your projects:
+The Open WP Smart Contracts plugin serves as a tool, facilitating the deployment and management of smart contracts within Darwinia ecosystem. Below, we delve into the core benefits of incorporating this plugin into your projects:
 
 1. Leverage the user base of the WP Smart Contracts plugin to ensure broader exposure of your network to WordPress users currently utilizing the plugin.
 
 2. Accessible Smart Contract Deployment: Any users, regardless of their WordPress or programming proficiency, can utilize any publicly available Smart Contracts Launcher for seamless smart contract creation, deployment, and management. This process requires minimal technical expertise and is free of charge, with users only responsible for covering gas fees during deployment.
 
-3. The community can create an exclusive Launcher dedicated exclusively for Zilhive network to promote a wider use of the Network across multiple use cases like:
+3. The community can create an exclusive Launcher dedicated exclusively for Darwinia network to promote a wider use of the Network across multiple use cases like:
 
 * NFT Marketplaces
   * ERC-721
@@ -39,7 +39,7 @@ The Open WP Smart Contracts plugin serves as a tool, facilitating the deployment
 * ICOs
 * Crowdfundings
 
-4. Community Engagement and Innovation: By incentivizing existing WordPress and freelancers communities to provide blockchain and smart contracts solutions using Zilhive platform, you stimulate community engagement and foster innovation. This collaborative effort enriches your platform with diverse solutions tailored to the specific needs of your community.
+4. Community Engagement and Innovation: By incentivizing existing WordPress and freelancers communities to provide blockchain and smart contracts solutions using Darwinia platform, you stimulate community engagement and foster innovation. This collaborative effort enriches your platform with diverse solutions tailored to the specific needs of your community.
 
 In essence, the Open WP Smart Contracts plugin offers a user-friendly and an accessible way for smart contract deployment, empowering both users and developers to harness the full potential of blockchain technology.
 
@@ -103,7 +103,7 @@ For the future of WP Smart Contracts, we propose a step towards advancing access
 
 * Expansion to New Networks: We will expand support to include additional networks through a grant-based approach, ensuring strategic and sustainable growth.
 
-* Availability of Zilhive for Current WP Smart Contracts User Base: Current WordPress installations with the active plugin will automatically receive updates, including the addition of new networks for free. This includes free deployment for life, thereby exposing the network to a broader user base of freelancers, entrepreneurs, and developers.
+* Availability of Darwinia for Current WP Smart Contracts User Base: Current WordPress installations with the active plugin will automatically receive updates, including the addition of new networks for free. This includes free deployment for life, thereby exposing the network to a broader user base of freelancers, entrepreneurs, and developers.
 
 * Free Smart Contract Deployment: As part of this milestone, the new networks will be available for free deployment within the plugin backend. Site administrators will only pay for the gas fee, benefiting the WordPress freelancers and developers community.
 
@@ -130,7 +130,7 @@ This milestone expands our reach beyond the WordPress ecosystem, catering to use
 
 * Exclusive Launchers for Your Network: The Launcher can be set to work exclusively with chosen networks, allowing site owners to create an exclusive launcher for their preferred network.
 
-* Open Smart Contracts Launcher: The public launcher will operate similarly to the current launcher, but it will be free to use for Zilhive users, with users only required to cover gas fees. Additionally, the networks integrated into the plugin will be openly accessible for deployment.
+* Open Smart Contracts Launcher: The public launcher will operate similarly to the current launcher, but it will be free to use for Darwinia users, with users only required to cover gas fees. Additionally, the networks integrated into the plugin will be openly accessible for deployment.
 
 * Multiple Language Support: All new features will be available in 10 languages: Arabic, English, French, German, Italian, Japanese, Portuguese, Russian, Simplified Chinese, and Spanish.
 
@@ -144,8 +144,8 @@ Requested amount: $5,200
 
 ### Additional Information
 
-Zilhive Grant Proposal
-https://wpsmartcontracts.com/grants/WPSC-Zilhive.pdf
+Darwinia Grant Proposal
+https://wpsmartcontracts.com/grants/WPSC-Darwinia.pdf
 
 WP Smart Contracts
 https://wpsmartcontracts.com/
