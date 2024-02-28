@@ -8,8 +8,8 @@ SubLayer is fully EVM compatible and easily accessible using metamask and phanto
 
 ### Team
 
-SubLayer team started its web3 journey in 2021 and released a early version of digital artifact trading platform. After that, the team focused on digital asset in gamefi space and collaborated with many top game studios on binance smart chain.
-- Liu Yan, UI/UX
+SubLayer team started its web3 journey in 2021 and released a early version of digital artifact trading platform. After that, the team focused on digital asset in gamefi space and collaborated with many top game studios on BNBChain.
+- [liuyan](https://github.com/UI930815), UI/UX
 - [tzuchaine](https://github.com/tzuchaine) React Frontend
 - [wupeng](https://github.com/wupeng1996) Java Backend
 - [xinwang](https://github.com/leo-xinwang) Blockchain and smart contract
@@ -20,26 +20,39 @@ SubLayer team started its web3 journey in 2021 and released a early version of d
 
 ### Development Roadmap
 
+#### Phase 1
+
+Estimated Duration: 4 weeks
+
+Cost: 8000 USD
+
+Function: 
+- Darwinia network NFT(ERC721) trending collection list
+- Darwinia network NFT(ERC721) collection launchpad and public mint
+- Darwinia network NFT(ERC721) marketplace supporting buy and list(sell)
+- Darwinia network wallet NFT(ERC721) portfolio
+- Darwinia network NFT(ERC721) data analysis
+
+Task:
+- Desktop UI/UX design
+- Desktop Frontend design
+- Mobile UI/UX design
+- Mobile Frontend design
+- NFT collection API
+- NFT minting API
+- NFT trading API
+- NFT statistics API
+- Blockchain data indexer
 
 
-This section should break out the development roadmap into a number of milestones. Please ensure this section is sufficently detailed. The length will vary depending on the project but approximately 2 pages is a good guideline. It should also be clear how the project is related to Darwinia.
+#### Long Term Plan
 
-Please provide the following:
+In the future, SubLayer will be a decentralized digital asset marketplace acorss multiple blockchains including Bitcoin, Ethereum and Solona. It will bring all popular categories of digital assets, like ordinals, token22, ERC404 etc. 
 
-- For each milestone:
-  - The specification of the software achieved after completion of each milestone. The level of detail must be high enough so that we are able to test that the software meets the specification.
-  - For applications with public financial information, please include total amount of funding requested per milestone. Funding can be in fiat (USDT or Dai ) or in RING. It can also be in a combination of fiat and RING. 
-- A schedule indicating when each milestone will be achieved.
-- The team's long-term plans and intentions
-
-
+SubLayer will also develop advanced trading features like biding, rewarding, daily quest and more.
 
 ### Additional Information
 
-Any additional information that you think is relevant to this application that hasn't already been included.
+SubLayer phase 1 development work was kicked off after CNY 2024. Phase 1 is expected to finish before end of March 2024.
 
-Possible additional information to include:
-
-- What work has been done so far?
-- Are there are any teams who have already contributed (financially) to the project?
-- Are there any other projects similar to yours? If so, how is your project different?
+As SubLayer team believes, all blockchain ecosystem will merge into the same metaverse, so we build to make this come true.
