@@ -1,8 +1,8 @@
-## Project name
-
-Darwinia KTON Staking UI
+## Darwinia KTON Staking UI
 
 ### Project Description
+
+This is a Darwinia RFP.
 
 This project is a frontend user interface for the new KTON Staking. [DIP-5](https://github.com/darwinia-network/DIPs/pull/15) proposes some adjustments to the KTON staking, which will separate the KTON Staking from Collator Staking while keeping incentive for ring pool and kton pool unchanged. [ref](https://github.com/orgs/darwinia-network/discussions/1393)
 
