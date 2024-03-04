@@ -15,6 +15,7 @@ Without this UI, users will manually interact with the new KTON Staking contract
 ### Team
 
 - Snoopy1412([@snoopy1412](https://github.com/snoopy1412))
+-
 
 ### Team Code Repos
 
@@ -27,6 +28,8 @@ Without this UI, users will manually interact with the new KTON Staking contract
 Estimated Duration: 2 weeks
 
 Cost: 1000 USD
+
+Address: 0x3d6d656c1bf92f7028Ce4C352563E1C363C58ED5
 
 #### Tasks:
 
