@@ -26,6 +26,8 @@ Estimated Duration: 4 weeks
 
 Cost: 8000 USD
 
+Payment address: 0x1C2124b0a72Af5B0cb3E606783F3e06beA25Bef4 (Arbitrum)
+
 Function: 
 - Darwinia network NFT(ERC721) trending collection list
 - Darwinia network NFT(ERC721) collection launchpad and public mint
@@ -43,7 +45,9 @@ Task:
 - NFT trading API
 - NFT statistics API
 - Blockchain data indexer
-
+- Product Document
+- API document
+- Local test env docker build
 
 #### Long Term Plan
 
