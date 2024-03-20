@@ -20,11 +20,11 @@
 
 # 👋Introduction
 
-To fund the development of projects and applications that contribute to the Darwinia/Crab ecosystem and promote overall network growth, we encourage passionate teams to build innovative, interconnected projects on Darwinia/Crab and reward use cases with application scenarios. For more information about the Darwinia Network and Crab Network, please visit the [Darwinia website](https://darwinia.network/) and [Crab website](https://crab.network/#/).
+To fund the development of projects and applications that contribute to the Darwinia ecosystem and promote overall network growth, we encourage passionate teams to build innovative cross-chain projects on [Darwinia Msgport](https://docs.darwinia.network/msgport-fa89f501ea1747e285b6169697e2ff77) and [Darwinia EVM+](https://docs.darwinia.network/evm-df814f681ec248438cb762df8aaddbd6). 
 
 ## Guidelines
 
-Anyone is welcome to apply for a grant. Projects funded through our programs are broad in scope, but our focus lies on strong **technical projects** that add value to the ecosystem.
+Anyone is welcome to apply for a grant. Projects funded through our programs are broad in scope, but our focus lies on projects that add value to the ecosystem.
 
 Generally, projects must fulfill the following requirements:
 
@@ -47,25 +47,43 @@ Finally, we take licensing and the right of all teams in and outside the ecosyst
 
 ## Project ideas
 
-Darwinia Foundation is interested in providing grants within the following areas of interest. If any of these topics are of interest to you then please make a speculative application to request funding for your project.
+Darwinia Ecosystem Fund is interested in providing grants within the following areas of interest. If any of these topics are of interest to you then please make a speculative application to request funding for your project.
 
-- Tooling and infrastructure
+* Cross-chain dApps based on Darwinia Msgport
 
-Projects that support the development tools and infrastructure needed by other teams. These projects must fill existing tooling gaps from the developer tools portfolio in Darwinia/Crab. Such as wallets, oracles, and API services.
+  Cross-chain dApps based on Darwinia Msgport have a wide range of use cases, such as Defi, NFT, DAO, Identity, Metaverse Games, Insurance, and more. 
 
-- Ecosystem projects
+* Development tools and Infrastructures for Darwinia Msgport
 
-Projects which support the ecosystem through a wide range of use cases, such as Defi, NFT, DAO, Identity, Metaverse Games, Insurance, and more. Also, projects that use the [Universal Darwinia Cross-Chain Messaging SDK](https://docs.darwinia.network/sdk/api-reference) to develop Dapps also have the opportunity to receive funding. This category aims to promote the Darwinia/Crab ecosystem development by providing useful services and utility on the network.
+  Projects that can help others develop Darwinia Msgport-based dApps are very welcome to apply for funding in this category. 
+
+  Currently, priority will be given to tools such as message explorers, data analysis tools, cross-chain process visualization, data visualization, and health monitoring.
+
+* dApps running Darwinia Chain 
+
+  EVM+ is a suit of programmable virtual machines that work as the entrypoints to multi layer1 blockchains by Darwinia Msgport. Darwinia Chain is part of EVM+. To make Darwinia Chain more functional, we hope that you can provide various dApps running on Darwinia Chain.
+
+  Since Darwinia Chain is part of Darwinia Msgport, we will prioritize dApps requested by the Darwinia Msgport community and these dApps will be listed in "Issues" of this repository.
+
+
 
 # 🪜Levels
 
 ### Level 1
 
-- Amount: Up to $5,000
+- Amount: Up to $3,000
 - Target: Individuals & Small Teams
 - Submission of a detailed project proposal, including expected outcomes and a timeline.
-- Demonstration of successful past projects as evidence of execution capability.
+- Demonstrate your coding skills through your historical github repositories.
 - Provision of a clear budget plan, explaining how the funds will be effectively utilized.
+
+### Level 2
+
+- Amount: Up to $10,000
+- Target: Individuals & Small Teams
+- Submission of a detailed project proposal, including detailed milestones.
+- Provision of a clear budget plan in the milestones, explaining how the funds will be effectively utilized.
+- Demonstration of successful past projects as evidence of execution capability.
 
 ### Level 2
 
@@ -74,7 +92,7 @@ Projects which support the ecosystem through a wide range of use cases, such as 
 - Need for a more comprehensive project plan, including market analysis, potential impact, and risk assessment.
 - Submission of detailed background information on team members, including relevant experience and skills.
 - Presentation of at least one previous successful case related to the proposed project.
-- Provision of a detailed funding usage plan and a long-term sustainability strategy.
+- Provide detailed fund use plans and long-term sustainable development strategies.
 
 If your project is complicated and you feel that it is not suitable to use the above levels, you can communicate with our team to determine the grant amount.
 
@@ -92,7 +110,7 @@ The process below is independent of the level. Payment is made in USDT, USDC, DA
 
 ### Application Review
 
-1. Darwinia/Crab team can (and usually does) issue comments and request changes on the pull request.
+1. Darwinia Ecosytem Fund can (and usually does) issue comments and request changes on the pull request.
 2. Clarifications and amendments made in the comments need to be included in the application. You may address feedback by directly modifying your application and leaving a comment once you're done. Generally, if you don't reply within 1 month, the application will be closed due to inactivity, but you're always free to reopen it as long as it hasn't been rejected.
 3. When all requested changes are addressed and the terms and conditions have been signed, someone will mark your application as `ready for review` and share it internally with the rest of the team.
 4. The application will be accepted and merged as soon as it receives after the majority of the team agrees, or closed after 1 month of inactivity. Unless specified otherwise, the day on which it is accepted will be considered the starting date of the project, and will be used to estimate delivery dates.
@@ -105,7 +123,7 @@ The process below is independent of the level. Payment is made in USDT, USDC, DA
 
 # 🍻Alternative Fundings Sources
 
-If your project does not meet the requirements of open-source but does make a positive impact on the development of Darwinia/Crab Network.
+If your project does not meet the requirements of open-source but does make a positive impact on the development of Darwinia ecosystem.
 We encourage you to explore the alternative funding options listed below. Please note, however, that you should not seek to fund the same scope of work from multiple sources and that any team found doing so will have its Darwinia Foundation support terminated.
 
 ## Treasury
