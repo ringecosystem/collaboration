@@ -59,7 +59,7 @@ Darwinia Ecosystem Fund is interested in providing grants within the following a
 
   Currently, priority will be given to tools such as message explorers, data analysis tools, cross-chain process visualization, data visualization, and health monitoring.
 
-* dApps running Darwinia Chain 
+* DApps running Darwinia Chain 
 
   EVM+ is a suit of programmable virtual machines that work as the entrypoints to multi layer1 blockchains by Darwinia Msgport. Darwinia Chain is part of EVM+. To make Darwinia Chain more functional, we hope that you can provide various dApps running on Darwinia Chain.
 
