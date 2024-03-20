@@ -85,7 +85,7 @@ Darwinia Ecosystem Fund is interested in providing grants within the following a
 - Provision of a clear budget plan in the milestones, explaining how the funds will be effectively utilized.
 - Demonstration of successful past projects as evidence of execution capability.
 
-### Level 2
+### Level 3
 
 - Amount: Up to $30,000
 - Target: Small Teams & Start-ups
