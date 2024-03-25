@@ -1,7 +1,7 @@
 # Ecosystem Multisig Addresses
 
 ## Darwinia: 
-[0x529D6aF3f84EE0b8e9bE5D8107004E87da86cD5e](https://darwinia.subscan.io/account/0x529D6aF3f84EE0b8e9bE5D8107004E87da86cD5e)
+[0xB92efff28e3Ed61E764EB566A4108a7b50A5219a](https://darwinia.subscan.io/account/0xB92efff28e3Ed61E764EB566A4108a7b50A5219a)
 
 ## Ethereum:
 [0x5FD8bCC6180eCd977813465bDd0A76A5a9F88B47](https://etherscan.io/address/0x5FD8bCC6180eCd977813465bDd0A76A5a9F88B47)
