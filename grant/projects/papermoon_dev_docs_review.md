@@ -12,7 +12,7 @@ The core proposal is to do a general overview of the developer documentation and
 
 In 2023, Moonbeam made strides towards decentralizing its development, moving from a primary core contributor providing all services (PureStake) to a cohort of multiple teams, where each provides expertise in a specific area. PaperMoon was founded by Alberto in January 2023 as the Developer Relations contributor to Moonbeam. Since July 2023, it has operated as a separate entity offering Developer Relations as a service for the network. Moreover, PaperMoon has been an early Developer Relationship contributor to Tanssi since the project was founded in May 2023.
 
-PaperMoon is currently formed by Alberto (Founder), Erin, Kevin, Yuki, Augusto and Wuzhong.
+PaperMoon is currently formed by Alberto (Founder), Erin, Kevin, Yuki, Augusto, Wuzhong and Ibrahim.
 
 PaperMoon has been the primary contributor for both Moonbeam and Tanssi developer documentations sites. Feel free to check them out:
 
