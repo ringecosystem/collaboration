@@ -16,6 +16,7 @@ We are looking for (additional) teams to implement this.
 - [Uniswap V3 like DEX](https://support.uniswap.org/hc/en-us/articles/14569783029645-Uniswap-v3-Licensing)
 - [Integration Solutions](https://github.com/orgs/dcdao/discussions/categories/integration)
 - [Solution/Tool for migrate Frontier EVM storage to Geth data db as L2 genesis](https://github.com/darwinia-network/collaboration/issues/53)
+- [Dispatch Precompile Dev Tool](https://github.com/darwinia-network/collaboration/issues/55)
 
 ### Under Development RFPs
 
