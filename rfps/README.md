@@ -10,7 +10,7 @@ If you find an open RFP here that you think you can address, feel free to submit
 
 We are looking for (additional) teams to implement this.
 
-- [Use cases and applications that use Darwinia Msgport](https://docs.darwinia.network/msgport-fa89f501ea1747e285b6169697e2ff77)
+- [Use cases and applications that use Darwinia Msgport](https://docs.darwinia.network/msgport/overview/)
 - [Use cases and applications that use Msgport xAccount]()
 - [Use cases and applications that use Helix xToken](https://docs.helixbridge.app/helixbridge/mapping_token)
 - [Uniswap V3 like DEX](https://support.uniswap.org/hc/en-us/articles/14569783029645-Uniswap-v3-Licensing)
