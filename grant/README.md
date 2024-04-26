@@ -20,7 +20,7 @@
 
 # 👋Introduction
 
-To fund the development of projects and applications that contribute to the Darwinia ecosystem and promote overall network growth, we encourage passionate teams to build innovative cross-chain projects on [Darwinia Chain](https://docs.darwinia.network/evm-df814f681ec248438cb762df8aaddbd6) and [Msgport](https://docs.msgport.xyz).
+To fund the development of projects and applications that contribute to the Darwinia ecosystem and promote overall network growth, we encourage passionate teams to build innovative cross-chain projects on [Darwinia Chain](https://docs.darwinia.network) and [Msgport](https://docs.msgport.xyz).
 
 ## Guidelines
 
