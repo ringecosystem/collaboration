@@ -2,7 +2,7 @@
 
 ![t](https://user-images.githubusercontent.com/1608576/185069346-6ed2feb6-3002-4fe8-b43a-9071b73018c1.jpg)
 
-- [Darwinia Foundation Grants Program](#darwinia-foundation-grants-program)
+- [Grants Program](#grants-program)
 - [👋Introduction](#introduction)
   - [Guidelines](#guidelines)
   - [Project ideas](#project-ideas)
