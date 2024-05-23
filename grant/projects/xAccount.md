@@ -28,7 +28,7 @@ Drawing inspiration from Gnosis Safe, which offers users an intuitive UI for uti
 
 ### **Phase 1**
 
-Estimated Duration: 7 - 8 weeks
+Estimated Duration: 8 weeks
 
 Cost: 3500 USD
 
