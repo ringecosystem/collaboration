@@ -132,4 +132,4 @@ Funds held in Darwinia's on-chain treasury (0x6D6f646c64612f74727372790000000000
 
 ## Hackathons
 
-The best way to find out about upcoming hackathons is by following Darwinia on various social channels, such as [Twitter](https://twitter.com/DarwiniaNetwork) or [Medium](https://medium.com/darwinianetwork).
+The best way to find out about upcoming hackathons is by following Darwinia on various social channels, such as [X (Twitter)](https://x.com/DarwiniaNetwork) or [Medium](https://medium.com/darwinianetwork).
