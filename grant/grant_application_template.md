@@ -104,7 +104,7 @@ Company Address : 73, 7th Ave, near Aachi Namma Kitchen, Ashok Nagar, Chennai, T
 
 ### Additional Information
 
-[pitch_deck]: https://drive.google.com/file/d/1UYTkA0lrsYOfD1MktP_Dyyu1_3ent0AB/view?usp=sharing
+pitch_deck: https://drive.google.com/file/d/1UYTkA0lrsYOfD1MktP_Dyyu1_3ent0AB/view?usp=sharing
 
 Possible additional information to include:
 
