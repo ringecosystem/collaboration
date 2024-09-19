@@ -115,17 +115,28 @@ Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 ### Additional Information
 
 #### What I have done
-I have implemented a initial version of subname service for darwinia. You can play with it on http://213.199.47.229:3000/. This is a simple UI for subname registration.
+I have implemented a initial version of subname service for darwinia. 
 
-To query a subname from the ENSRegistry on Sepolia, you can use the following steps:
+1. Subname registration
+You can play with it on http://g2d.site:3000/. This is a simple UI for subname registration.
+
+2. Subname resolution
+Goto https://app.ens.domains/bar.ringdao.eth, you can see the subname has been registered and the address has been set.
+
+3. (Optional) Subname resolution by code
 ```bash
 git clone https://github.com/ensdomains/offchain-resolver.git
 cd offchain-resolver/packages/client
 yarn && yarn build
-yarn start -p https://sepolia.infura.io/v3/<your-infura-key> -n sepolia -i 11155111 --registry 0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e bar.darwinia.eth
+
+# If the next command failed, try to set NODE_TLS_REJECT_UNAUTHORIZED to 0.
+# export NODE_TLS_REJECT_UNAUTHORIZED=0
+yarn start -p https://sepolia.infura.io/v3/<your-infura-key> -n sepolia -i 11155111 --registry 0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e bar.ringdao.eth
 ```
 Replace `<your-infura-key>` with your own Infura key.   
 `0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e` is the address of the ENSRegistry on Sepolia. You can find it on https://docs.ens.domains/learn/deployments.
+
+
 
 #### Future work
 I have two ideas for future work:  
