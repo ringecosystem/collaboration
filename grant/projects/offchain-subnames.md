@@ -121,7 +121,7 @@ I have implemented a initial version of subname service for darwinia.
 You can play with it on http://g2d.site:3000/. This is a simple UI for subname registration.
 
 2. Subname resolution  
-Goto https://app.ens.domains/bar.ringdao.eth, you can see the subname has been registered and the address has been set.
+Goto https://app.ens.domains/bar.ringdao.eth and connect to any Sepolia account. You can see the subname has been registered and the address has been set.
 
 3. (Optional) Subname resolution by code  
     ```bash
