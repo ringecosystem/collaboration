@@ -114,7 +114,7 @@ Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 
 ### Additional Information
 
-#### What have I done
+#### What I have done
 I have implemented a initial version of subname service for darwinia. You can play with it on http://213.199.47.229:3000/. This is a simple UI for subname registration.
 
 To query a subname from the ENSRegistry on Sepolia, you can use the following steps:
