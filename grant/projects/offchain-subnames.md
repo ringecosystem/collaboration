@@ -115,13 +115,15 @@ Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 #### What have I done
 I have implemented a initial version of subname service for darwinia. You can play with it on http://213.199.47.229:3000/. This is a simple UI for subname registration.
 
-To query a subname, you can use the following steps:
+To query a subname from the ENSRegistry on Sepolia, you can use the following steps:
 ```bash
 git clone https://github.com/ensdomains/offchain-resolver.git
 cd offchain-resolver/packages/client
 yarn && yarn build
-yarn start -p https://sepolia.infura.io/v3/c706bce31b6346b2acbcec97b9abe5cb -n sepolia -i 11155111 --registry 0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e bar.darwinia.eth
+yarn start -p https://sepolia.infura.io/v3/<your-infura-key> -n sepolia -i 11155111 --registry 0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e bar.darwinia.eth
 ```
+Replace `<your-infura-key>` with your own Infura key.   
+`0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e` is the address of the ENSRegistry on Sepolia. You can find it on https://docs.ens.domains/learn/deployments.
 
 #### Future work
 I have two ideas for future work:  
