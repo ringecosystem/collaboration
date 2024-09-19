@@ -112,9 +112,20 @@ Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 
 ### Additional Information
 
-I have two ideas for future work:
+#### What have I done
+I have implemented a initial version of subname service for darwinia. You can play with it on http://213.199.47.229:3000/. This is a simple UI for subname registration.
 
-* The first is to implement a gas-free subdomain online service. This would allow anyone to use the service to create their own subdomain-based applications, similar to what Uniswap has done with uni.eth.   
+To query a subname, you can use the following steps:
+```bash
+git clone https://github.com/ensdomains/offchain-resolver.git
+cd offchain-resolver/packages/client
+yarn && yarn build
+yarn start -p https://sepolia.infura.io/v3/c706bce31b6346b2acbcec97b9abe5cb -n sepolia -i 11155111 --registry 0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e bar.darwinia.eth
+```
+
+#### Future work
+I have two ideas for future work:  
+
+1. The first is to implement a gas-free subdomain online service. This would allow anyone to use the service to create their own subdomain-based applications, similar to what Uniswap has done with uni.eth.   
   The service is similar to what https://namestone.xyz/ provides.
-
-* The second is to implement a comprehensive subdomain solution. This service is not only needed by Darwinia, but also by other blockchains. Furthermore, even non-EVM chains could benefit from such a solution.
+2. The second is to implement a comprehensive subdomain solution. This service is not only needed by Darwinia, but also by other blockchains. Furthermore, even non-EVM chains could benefit from such a solution.
