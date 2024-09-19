@@ -67,6 +67,8 @@ Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 - Contracts audit report.
 - Documentation of deployed addresses and how to use it.
 
+Basicly, once this milestone is completed, we will have a working offchain subname service for darwinia.eth.
+
 ### Milestone 2
 
 This milestone is to implement the normal users perspective UI for subname registration, removal, transfer, etc.
