@@ -122,7 +122,7 @@ To query a subname from the ENSRegistry on Sepolia, you can use the following st
 git clone https://github.com/ensdomains/offchain-resolver.git
 cd offchain-resolver/packages/client
 yarn && yarn build
-yarn start -p https://sepolia.infura.io/v3/<your-infura-key> -n sepolia -i 11155111 --registry 0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e bar.ringdao.eth
+yarn start -p https://sepolia.infura.io/v3/<your-infura-key> -n sepolia -i 11155111 --registry 0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e bar.darwinia.eth
 ```
 Replace `<your-infura-key>` with your own Infura key.   
 `0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e` is the address of the ENSRegistry on Sepolia. You can find it on https://docs.ens.domains/learn/deployments.
