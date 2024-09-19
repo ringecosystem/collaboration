@@ -50,9 +50,10 @@ Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 1. Implement a ERC-3668 compatible OffchainResolver contract on Ethereum.   
 2. Implement a DarwiniaSubnameRegistry contract on Darwinia Chain.
 3. Implement a gateway to facilitate communication between Ethereum and Darwinia Chain.
-4. Contracts audit with devs from Darwinia community.
-5. Deploy the contracts to testnets to do testing.
-6. Write documentation.
+4. Deploy the contracts to testnets to do testing.
+5. Contracts audit with devs from Darwinia community.
+6. Deploy to mainnets.
+7. Write documentation.
 
 #### Deliverables:
 
@@ -62,7 +63,7 @@ Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 - Deployment related
   - Documentation of deployment process. 
   - Deployment scripts.
-  - Verified contracts on testnets.
+  - Verified contracts on testnets and mainnets.
 - Contracts audit report.
 - Documentation of deployed addresses and how to use it.
 
