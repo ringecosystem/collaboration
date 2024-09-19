@@ -2,11 +2,11 @@
 
 ## Project Description
 
-This project aims to implement an offchain subnames solution for the 'darwinia.eth' Ethereum Name Service (ENS) domain but keeps the subname records on Darwinia Chain. 
+This project aims to implement an offchain subnames solution for the 'ringdao.eth' Ethereum Name Service (ENS) domain but keeps the subname records on Darwinia Chain. 
 
 It leverages the EIP-3668 specification to enable efficient and cost-effective management of subname-address mappings off the Ethereum mainnet. By storing these mappings on Darwinia Chain, the project offers a scalable approach to handle a large number of subdomains without incurring high gas fees.
 
-The solution utilizes a customized OffchainResolver contract on Ethereum, which works with a gateway service connected to the Darwinia Chain. This setup allows for seamless resolution of subnames (e.g., 'foo.darwinia.eth') while maintaining the security and decentralization benefits of the ENS.
+The solution utilizes a customized OffchainResolver contract on Ethereum, which works with a gateway service connected to the Darwinia Chain. This setup allows for seamless resolution of subnames (e.g., 'foo.ringdao.eth') while maintaining the security and decentralization benefits of the ENS.
 
 <!-- Key features of the project include:
 1. Offchain storage of subname-address mappings on Darwinia Chain
@@ -20,7 +20,7 @@ This project addresses the need for efficient subdomain management within the Da
 ### This project will benefit the Darwinia ecosystem in the following ways:
 
 1. It will provide a more efficient and cost-effective way to manage subdomains on the Darwinia Chain, reducing the need for users to pay high gas fees on Ethereum.
-2. It will enhance the usability of the 'darwinia.eth' domain by allowing users to register, update, and resolve subnames with reduced costs and improved performance.
+2. It will enhance the usability of the 'ringdao.eth' domain by allowing users to register, update, and resolve subnames with reduced costs and improved performance.
 3. It will demonstrate the potential for cross-chain interoperability in domain name services, opening up new possibilities for collaboration and innovation within the Darwinia ecosystem.
 
 ## Team
@@ -66,7 +66,7 @@ Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
   - Verified contracts on testnets and mainnets.
 - Documentation of deployed addresses and how to use it.
 
-Basicly, once this milestone is completed, we will have a working offchain subname service for darwinia.eth.
+Basicly, once this milestone is completed, we will have a working offchain subname service for ringdao.eth.
 
 ### Milestone 2
 
@@ -122,7 +122,7 @@ To query a subname from the ENSRegistry on Sepolia, you can use the following st
 git clone https://github.com/ensdomains/offchain-resolver.git
 cd offchain-resolver/packages/client
 yarn && yarn build
-yarn start -p https://sepolia.infura.io/v3/<your-infura-key> -n sepolia -i 11155111 --registry 0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e bar.darwinia.eth
+yarn start -p https://sepolia.infura.io/v3/<your-infura-key> -n sepolia -i 11155111 --registry 0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e bar.ringdao.eth
 ```
 Replace `<your-infura-key>` with your own Infura key.   
 `0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e` is the address of the ENSRegistry on Sepolia. You can find it on https://docs.ens.domains/learn/deployments.
