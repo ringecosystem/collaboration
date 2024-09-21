@@ -8,7 +8,6 @@
   - [Project ideas](#project-ideas)
 - [🪜Levels](#levels)
     - [Level 1](#level-1)
-    - [Level 2](#level-2)
 - [🎦Progress](#progress)
     - [Application](#application)
     - [Application Review](#application-review)
@@ -20,7 +19,7 @@
 
 # 👋Introduction
 
-To fund the development of projects and applications that contribute to the Darwinia ecosystem and promote overall network growth, we encourage passionate teams to build innovative cross-chain projects on [Darwinia Chain](https://docs.darwinia.network) and [Msgport](https://docs.msgport.xyz).
+To fund the development of projects and applications that contribute to the RingDAO ecosystem and promote overall network growth, we encourage passionate teams to build innovative DApps on [Darwinia Chain](https://docs.darwinia.network) and [Msgport](https://msgport.ringdao.com/docs/).
 
 ## Guidelines
 
@@ -47,23 +46,21 @@ Finally, we take licensing and the right of all teams in and outside the ecosyst
 
 ## Project ideas
 
-Darwinia Ecosystem Fund is interested in providing grants within the following areas of interest. If any of these topics are of interest to you then please make a speculative application to request funding for your project.
+RingDAO Ecosystem Fund is interested in providing grants within the following areas of interest. If any of these topics are of interest to you then please make a speculative application to request funding for your project. You can also check the issues for more ideas: https://github.com/ringecosystem/collaboration/issues
 
-* Cross-chain dApps based on Darwinia Msgport
+* Cross-chain dApps based on Msgport
 
-  Cross-chain dApps based on Darwinia Msgport have a wide range of use cases, such as Defi, NFT, DAO, Identity, Metaverse Games, Insurance, and more. 
+  Cross-chain dApps based on Msgport have a wide range of use cases, such as Defi, NFT, DAO, Identity, Metaverse Games, Insurance, and more. 
 
-* Development tools and Infrastructures for Darwinia Msgport
+* Development tools and Infrastructures for Msgport
 
-  Projects that can help others develop Darwinia Msgport-based dApps are very welcome to apply for funding in this category. 
+  Projects that can help others develop Msgport-based dApps are very welcome to apply for funding in this category. 
 
   Currently, priority will be given to tools such as message explorers, data analysis tools, cross-chain process visualization, data visualization, and health monitoring.
 
 * DApps running Darwinia Chain 
 
-  EVM+ is a suit of programmable virtual machines that work as the entrypoints to multi layer1 blockchains by Darwinia Msgport. Darwinia Chain is part of EVM+. To make Darwinia Chain more functional, we hope that you can provide various dApps running on Darwinia Chain.
-
-  Since Darwinia Chain is part of Darwinia Msgport, we will prioritize dApps requested by the Darwinia Msgport community and these dApps will be listed in "Issues" of this repository.
+  EVM+ is a suit of programmable virtual machines that work as the entrypoints to multi layer1 blockchains by Msgport. Darwinia Chain is part of EVM+. To make Darwinia Chain more functional, we hope that you can provide various dApps running on Darwinia Chain.
 
 
 
@@ -76,25 +73,6 @@ Darwinia Ecosystem Fund is interested in providing grants within the following a
 - Submission of a detailed project proposal, including expected outcomes and a timeline.
 - Demonstrate your coding skills through your historical github repositories.
 - Provision of a clear budget plan, explaining how the funds will be effectively utilized.
-
-### Level 2
-
-- Amount: Up to $10,000
-- Target: Individuals & Small Teams
-- Submission of a detailed project proposal, including detailed milestones.
-- Provision of a clear budget plan in the milestones, explaining how the funds will be effectively utilized.
-- Demonstration of successful past projects as evidence of execution capability.
-
-### Level 3
-
-- Amount: Up to $30,000
-- Target: Small Teams & Start-ups
-- Need for a more comprehensive project plan, including market analysis, potential impact, and risk assessment.
-- Submission of detailed background information on team members, including relevant experience and skills.
-- Presentation of at least one previous successful case related to the proposed project.
-- Provide detailed fund use plans and long-term sustainable development strategies.
-
-If your project is complicated and you feel that it is not suitable to use the above levels, you can communicate with our team to determine the grant amount.
 
 # 🎦Progress
 
@@ -110,7 +88,7 @@ The process below is independent of the level. Payment is made in USDT, USDC, DA
 
 ### Application Review
 
-1. Darwinia Ecosytem Fund can (and usually does) issue comments and request changes on the pull request.
+1. RingDAO Ecosytem Fund can (and usually does) issue comments and request changes on the pull request.
 2. Clarifications and amendments made in the comments need to be included in the application. You may address feedback by directly modifying your application and leaving a comment once you're done. Generally, if you don't reply within 1 month, the application will be closed due to inactivity, but you're always free to reopen it as long as it hasn't been rejected.
 3. When all requested changes are addressed and the terms and conditions have been signed, someone will mark your application as `ready for review` and share it internally with the rest of the team.
 4. The application will be accepted and merged as soon as it receives after the majority of the team agrees, or closed after 1 month of inactivity. Unless specified otherwise, the day on which it is accepted will be considered the starting date of the project, and will be used to estimate delivery dates.
