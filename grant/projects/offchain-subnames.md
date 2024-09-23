@@ -37,9 +37,7 @@ This project addresses the need for efficient subdomain management within the Da
 
 ### Milestone 1
 
-This milestone is to implement the basic functionality of offchain subnames. 
-
-Estimated Duration: 2 ~ 4 weeks
+Estimated Duration: 4 ~ 6 weeks
 
 Cost: 1 ETH
 
@@ -47,100 +45,30 @@ Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 
 #### Tasks:
 
-1. Implement a ERC-3668 compatible OffchainResolver contract on Ethereum.   
-2. Implement a DarwiniaSubnameRegistry contract on Darwinia Chain.
-3. Implement a gateway to facilitate communication between Ethereum and Darwinia Chain.
-4. Deploy the contracts to testnets to do testing.
-5. Contracts audit with devs from Darwinia community.
-6. Deploy to mainnets.
-7. Write documentation.
-
-#### Deliverables:
-
-- A ERC-3668 compatible OffchainResolver contract.
-- A DarwiniaSubnameRegistry contract.
-- A gateway implementation.
-- Deployment related
-  - Documentation of deployment process. 
-  - Deployment scripts.
-  - Verified contracts on testnets and mainnets.
-- Documentation of deployed addresses and how to use it.
-
-Basicly, once this milestone is completed, we will have a working offchain subname service for ringdao.eth.
-
-### Milestone 2
-
-This milestone is to implement the normal users perspective UI for subname registration, removal, transfer, etc.
-
-Estimated Duration: 2 ~ 4 weeks
-
-Cost: 1 ETH
-
-Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
-
-#### Tasks:
-
-1. Implement a sophiscated wallet connect logic.
-2. Implement a dashboard for subname management.
-3. Implement subname registration, removal, transfer.
-
-#### Deliverables:
-
-- A working deployed instance of the UI.
-- Dockerfile and scripts for deployment.
-- Documentation of how to deploy and run the UI.
-
-### Milestone 3
-
-This milestone is to implement the admin UI for subname management.
-
-Estimated Duration: 2 ~ 4 weeks
-
-Cost: 1 ETH
-
-Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
-
-#### Tasks:
-
-1. Implement a admin dashboard for subname management.
-2. Implement subnames list view.
-2. Implement subname removal, transfer.
-
-#### Deliverables:
-
-- A working deployed instance of the admin UI.
-- Dockerfile and scripts for deployment.
-- Documentation of how to deploy and run the admin UI.
+1. Requirement gathering.
+2. Contracts  
+   1. Implement an OffchainResolver contract.   
+   2. Implement a SubnameRegistry contract. 
+   3. Audit the contracts.
+   4. Deploy to testnet.
+3. Gateway  
+   1. Implement a gateway to facilitate communication between Ethereum and Darwinia Chain.
+   2. Deploy to testnet.
+5. UI
+    1. Implement a sophiscated wallet connect logic.
+    2. Implement logic for
+       1. registration with a fixed fee.
+       2. transfer.
+    3. Deploy to testnet.
+6. Production deployment
 
 ### Additional Information
 
-#### What I have done
-I have implemented a initial version of subname service for darwinia. 
-
-1. Subname registration  
-You can play with it on http://g2d.site:3000/. This is a simple UI for subname registration.
-
-2. Subname resolution  
-Goto https://app.ens.domains/bar.ringdao.eth and connect to any Sepolia account. You can see the subname has been registered and the address has been set.
-
-3. (Optional) Subname resolution by code  
-    ```bash
-    git clone https://github.com/ensdomains/offchain-resolver.git
-    cd offchain-resolver/packages/client
-    yarn && yarn build
-
-    # If the next command failed, try to set NODE_TLS_REJECT_UNAUTHORIZED to 0.
-    # export NODE_TLS_REJECT_UNAUTHORIZED=0
-    yarn start -p https://sepolia.infura.io/v3/<your-infura-key> -n sepolia -i 11155111 --registry 0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e bar.ringdao.eth
-    ```
-    Replace `<your-infura-key>` with your own Infura key.   
-    `0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e` is the address of the ENSRegistry on Sepolia. You can find it on https://docs.ens.domains/learn/deployments.
-
-
-
 #### Future work
-I have two ideas for future work:  
 
-1. The first is to implement a gas-free subdomain online service. This would allow anyone to use the service to create their own subdomain-based applications, similar to what Uniswap has done with uni.eth.   
-  The service is similar to what https://namestone.xyz/ provides.
-2. The second is to implement a comprehensive subdomain solution. This service is not only needed by Darwinia, but also by other blockchains. Furthermore, even non-EVM chains could benefit from such a solution.
+1. Cross-chain data fetching with storage proofs.  
+   This solution does not require a independent signer. Instead, it uses the data availability feature of Darwinia Chain.  
+   Ref: https://github.com/ensdomains/evmgateway
+
+2. Fully offchain subname resolution.  
+   This solution will be fully offchain. It will not require any onchain interaction.
