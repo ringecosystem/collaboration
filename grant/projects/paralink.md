@@ -69,3 +69,7 @@
      - **Implement cross-chain asset transfer logic between EVM chains and Polkadot chains**, enabling users to transfer assets across different types of chains.
      - Manage various potential exceptions during the cross-chain process to ensure asset security.
      - Dynamically adjust the cross-chain transfer logic and process based on automatically detected chain types and asset types.
+
+##### 2. PREPLK Distribution Commitment
+
+To express our gratitude for RingDao's funding support for this project, especially in the early stages, ParaLink has launched an ERC-20 token on the Darwinia mainnet called [PREPLK (Pre ParaLink Token)](https://explorer.darwinia.network/address/0x7ED13f74FD8AE70db03Ae74666d1B443341D8A41), and has committed to distribute 20% of the total supply to the RingDao community. We hope this will help the RingDao community gain more benefits from the project and develop a long-term relationship with ParaLink.
