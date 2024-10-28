@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-[ParaLink](https://para.link/) is a cross-chain asset transfer tool built on the Polkadot XCM (Cross-Consensus Messaging) technology stack. The project is dedicated to creating a seamless cross-chain experience, supporting asset interoperability between parachains within the Polkadot ecosystem
+[ParaLink](https://para.link/) is a cross-chain asset exchange tool built on the Polkadot XCM (Cross-Consensus Messaging) technology stack. The project is dedicated to creating a seamless cross-chain experience, supporting asset interoperability between parachains within the Polkadot ecosystem.
 
 ## Team
 
@@ -14,17 +14,13 @@
 
 ## Development Roadmap
 
-### Phase 1
+- **Estimated Duration**: 6 weeks
+- **Budget**: 2500 USD
+- **Wallet Address**: 0x3d6d656c1bf92f7028Ce4C352563E1C363C58ED5
 
-**Estimated Duration**: 6 weeks
+### Tasks
 
-**Budget**: 2500 USD
-
-**Wallet Address**: 0x3d6d656c1bf92f7028Ce4C352563E1C363C58ED5
-
-#### Tasks
-
-##### 1. Infrastructure and Core Feature Development
+#### Infrastructure and Core Feature Development
 
 1. **User Interface Development**
 
@@ -70,6 +66,6 @@
      - Manage various potential exceptions during the cross-chain process to ensure asset security.
      - Dynamically adjust the cross-chain transfer logic and process based on automatically detected chain types and asset types.
 
-##### 2. PREPLK Distribution Commitment
+##### PREPLK Distribution Commitment
 
 To express our gratitude for RingDao's funding support for this project, especially in the early stages, ParaLink has launched an ERC-20 token on the Darwinia mainnet called [PREPLK (Pre ParaLink Token)](https://explorer.darwinia.network/address/0x7ED13f74FD8AE70db03Ae74666d1B443341D8A41), and has committed to distribute 20% of the total supply to the RingDao community. We hope this will help the RingDao community gain more benefits from the project and develop a long-term relationship with ParaLink.
