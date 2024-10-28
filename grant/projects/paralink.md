@@ -10,7 +10,7 @@
 
 ## Team Code Repos
 
-- [https://github.com/snoopy1412/paralink](https://github.com/snoopy1412/paralink)
+- https://github.com/ringecosystem/paralink
 
 ## Development Roadmap
 
