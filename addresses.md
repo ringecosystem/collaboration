@@ -8,3 +8,6 @@
 
 ## Arbitrum:
 [0xcF574dB33E7b0657940cc1e996Cb90cA7Dc71345](https://arbiscan.io/address/0xcF574dB33E7b0657940cc1e996Cb90cA7Dc71345)
+
+## Base:
+[0xbB8ACA7960B3f4C99b1A1Ba2d7BE68cD2E0C7F7A](https://basescan.org/address/0xbB8ACA7960B3f4C99b1A1Ba2d7BE68cD2E0C7F7A)
