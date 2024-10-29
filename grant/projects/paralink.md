@@ -68,7 +68,11 @@
      - Manage various potential exceptions during the cross-chain process to ensure asset security.
      - Dynamically adjust the cross-chain transfer logic and process based on automatically detected chain types and asset types.
 
-##### PREPLK Distribution Commitment
+## PREPLK Distribution Commitment
 
 To express our gratitude for RingDao's funding support for this grant and the previous research, design and development work, ParaLink has launched an ERC-20 token on the Darwinia mainnet called [PREPLK (Pre ParaLink Token)](https://explorer.darwinia.network/address/0x7ED13f74FD8AE70db03Ae74666d1B443341D8A41), and has committed to distribute 20% of the total supply to the RingDao community. We hope that ParaLink
 would be a valuable part of the RingDAO ecosystem in the future and develop a long-term relationship with ParaLink.
+
+## Additional Information
+
+Super thanks to the RingDAO community members, especially Bear Wang, Guantong and Jay, for their technical support and feedback on the design and the previous of ParaLink. We are excited to continue working to build a better ParaLink. 
