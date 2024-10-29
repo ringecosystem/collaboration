@@ -2,11 +2,13 @@
 
 ## Project Overview
 
-[ParaLink](https://para.link/) is a cross-chain asset exchange tool built on the Polkadot XCM (Cross-Consensus Messaging) technology stack. The project is dedicated to creating a seamless cross-chain experience, supporting asset interoperability between parachains within the Polkadot ecosystem.
+[ParaLink](https://para.link) is a cross-chain asset exchange hub built on the Polkadot XCM (Cross-Consensus Messaging) technology stack to serve users of parachains in the Polkadot ecosystem. The current version only supports tokens in the Darwinia ecosystem, and the user experience needs improvement. This grant aims to redesign and rebuild ParaLink, from the user interface to the underlying logic, to make it more user-friendly and efficient.
 
 ## Team
 
-- Snoopy1412 ([@snoopy1412](https://github.com/snoopy1412))
+- [Snoopy1412](https://github.com/snoopy1412)
+- [Bear Wang](https://github.com/boundless-forest)
+- [Guantong](https://github.com/jiguantong)
 
 ## Team Code Repos
 
@@ -68,4 +70,5 @@
 
 ##### PREPLK Distribution Commitment
 
-To express our gratitude for RingDao's funding support for this project, especially in the early stages, ParaLink has launched an ERC-20 token on the Darwinia mainnet called [PREPLK (Pre ParaLink Token)](https://explorer.darwinia.network/address/0x7ED13f74FD8AE70db03Ae74666d1B443341D8A41), and has committed to distribute 20% of the total supply to the RingDao community. We hope this will help the RingDao community gain more benefits from the project and develop a long-term relationship with ParaLink.
+To express our gratitude for RingDao's funding support for this grant and the previous research, design and development work, ParaLink has launched an ERC-20 token on the Darwinia mainnet called [PREPLK (Pre ParaLink Token)](https://explorer.darwinia.network/address/0x7ED13f74FD8AE70db03Ae74666d1B443341D8A41), and has committed to distribute 20% of the total supply to the RingDao community. We hope that ParaLink
+would be a valuable part of the RingDAO ecosystem in the future and develop a long-term relationship with ParaLink.
