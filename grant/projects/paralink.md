@@ -7,8 +7,9 @@
 ## Team
 
 - [Snoopy1412](https://github.com/snoopy1412)
-- [Bear Wang](https://github.com/boundless-forest)
-- [Guantong](https://github.com/jiguantong)
+- [Bear Wang](https://github.com/boundless-forest) from Itering
+- [Guantong](https://github.com/jiguantong) from Itering
+- [Yuqi Lau](https://github.com/DreUncle) from Itering
 
 ## Team Code Repos
 
@@ -76,4 +77,4 @@ would be a valuable part of the RingDAO ecosystem in the future and develop a lo
 
 ## Additional Information
 
-Super thanks to the RingDAO community members, especially Bear Wang, Guantong and Jay, for their technical support and feedback on the design and the previous of ParaLink. We are excited to continue working to build a better ParaLink. 
+Please note that Paralink is a cross-team collaboration project, with other major contributions coming from Itering, including Bear Wang, Guantong, Jay, Yuqi, and others. Since Itering’s contributions are provided separately as a Service Provider of RingDAO, the grant amount does not include compensation for these efforts. The entirety of this grant’s rewards will be allocated to snoopy1412 for completing the grant scope, with Itering providing the necessary support.
