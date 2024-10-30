@@ -10,6 +10,7 @@
 - [Bear Wang](https://github.com/boundless-forest) from Itering
 - [Guantong](https://github.com/jiguantong) from Itering
 - [Yuqi Lau](https://github.com/DreUncle) from Itering
+- [Ran Ji](https://github.com/1022ranji) from Itering
 
 ## Team Code Repos
 
