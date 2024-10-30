@@ -14,11 +14,12 @@
 
 - https://github.com/ringecosystem/paralink
 
-## Development Roadmap
+## Grant Information
 
+- **Key Contributor**: Snoopy1412
 - **Estimated Duration**: 6 weeks
 - **Budget**: 2500 USD
-- **Wallet Address**: 0x3d6d656c1bf92f7028Ce4C352563E1C363C58ED5
+- **Payee Wallet Address**: 0x3d6d656c1bf92f7028Ce4C352563E1C363C58ED5
 
 ### Tasks
 
