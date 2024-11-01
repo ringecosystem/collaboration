@@ -1,42 +1,31 @@
-# Darwinia Grant Template
+# Grant Template
 
-## Project name
+## Project Name
 
-### Project Description
+### Description
 
 Please provide the following:
 
 - A brief description of the project.
-- An indication of why this project is good for the Darwinia ecosystem.
-- An indication of how you will integrate this project into Darwinia.
-
-
+- An indication of why this project is good for the RingDAO ecosystem.
+- An indication of how you will integrate this project into RingDAO.
 
 ### Team
 
 - A brief description of team background
 - Names of team members
 
-
-
 ### Legal Structure
 
 Please provide the name and registered address of the legal entity executing the project. These details can also be shared privately via the Google Form used for your application.
 
-
-
 ### Team Code Repos
 
-- https://github.com/<your_repo_1>
-- https://github.com/<your_repo_2>
-
-
+- https://github.com/<your_repo>
 
 ### Development Roadmap
 
-
-
-This section should break out the development roadmap into a number of milestones. Please ensure this section is sufficently detailed. The length will vary depending on the project but approximately 2 pages is a good guideline. It should also be clear how the project is related to Darwinia.
+This section should break out the development roadmap into a number of milestones. Please ensure this section is sufficently detailed. The length will vary depending on the project but approximately 2 pages is a good guideline. It should also be clear how the project is related to RingDAO.
 
 Please provide the following:
 
@@ -51,9 +40,3 @@ Please provide the following:
 ### Additional Information
 
 Any additional information that you think is relevant to this application that hasn't already been included.
-
-Possible additional information to include:
-
-- What work has been done so far?
-- Are there are any teams who have already contributed (financially) to the project?
-- Are there any other projects similar to yours? If so, how is your project different?
