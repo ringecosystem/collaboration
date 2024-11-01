@@ -22,20 +22,20 @@ SubLayer team started its web3 journey in 2021 and released a early version of d
 
 #### Phase 1
 
-Estimated Duration: 4 weeks
+* Estimated Duration: 4 weeks
+* Cost: 8000 USD
+* Payment address: 0x1C2124b0a72Af5B0cb3E606783F3e06beA25Bef4 (Arbitrum)
 
-Cost: 8000 USD
+#### Function
 
-Payment address: 0x1C2124b0a72Af5B0cb3E606783F3e06beA25Bef4 (Arbitrum)
-
-Function: 
 - Darwinia network NFT(ERC721) trending collection list
 - Darwinia network NFT(ERC721) collection launchpad and public mint
 - Darwinia network NFT(ERC721) marketplace supporting buy and list(sell)
 - Darwinia network wallet NFT(ERC721) portfolio
 - Darwinia network NFT(ERC721) data analysis
 
-Task:
+#### Task:
+
 - Desktop UI/UX design
 - Desktop Frontend design
 - Mobile UI/UX design

@@ -1,6 +1,7 @@
-# Darwinia Grant
+# Subswap
 
 ## Project Name
+
 Subswap —— AMM DEX based on Darwinia DVM. https://subswap.pro
 
 ### Project Description
@@ -11,27 +12,23 @@ Anyone can become a liquidity provider (LP) for a pool by depositing an equivale
 
 ### Team
 
-
 - [@yxf](https://github.com/yxf) Substrate and solidity developer，owner of [subwallet](https://github.com/uni-arts-chain/subwallet)， developed many Dapps。
 - [@tianxiemaochiyu](https://github.com/tanxiemaochiyu) Frontend developer experienced in Dapp development
-
 
 ### Team Code Repos
 
 - https://github.com/uni-arts-chain/subswap-core
 - https://github.com/uni-arts-chain/subswap-interface
 
-
 ### Development Roadmap
 
-* **Total Estimated Duration:** 4 weeks
-* **Total Costs:** 4000 USD + 4000 USD equivalent RING
+* Total Estimated Duration: 4 weeks
+* Total Costs: 4000 USD + 4000 USD equivalent RING
 
 #### Milestone 1
 
-* **Estimated Duration:** 2 weeks 
-* **Costs:** 4000 USD
-
+* Estimated Duration: 2 weeks 
+* Costs: 4000 USD
 
 | Number | Task |
 | ------------- | ------------- |
@@ -41,25 +38,23 @@ Anyone can become a liquidity provider (LP) for a pool by depositing an equivale
 
 #### Milestone 2
 
-* **Estimated Duration:** 2 weeks 
-* **Costs:** 4000 USD
-
+* Estimated Duration: 2 weeks 
+* Costs: 4000 USD
 
 | Number | Task |
 | ------------- | ------------- |
 | 1.  | Backend service of analytics and historical data |
 | 2.  | Frontend interface of analytics and historical data|
 
-
-
 ### Long-term plans and intentions
+
 | Number | Plan |
 | ------------- | ------------- |
 | 1. | NFT market |
 | 2. | Governance and Farming |
 
-
 ## Additional Information
+
 * Subswap is an infrastructure of DVM ecosystem. A lot of dapps will be build on Subswap. 
 * Subswap has deployed on Pangolin testnet.
 * All codes include contracts, js and documetns will be opensource.

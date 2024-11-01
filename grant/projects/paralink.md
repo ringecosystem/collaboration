@@ -12,47 +12,47 @@
 - [Yuqi Lau](https://github.com/DreUncle) from Itering
 - [Ran Ji](https://github.com/1022ranji) from Itering
 
-## Team Code Repos
+## Code Repos
 
 - https://github.com/ringecosystem/paralink
 
 ## Grant Information
 
-- **Key Contributor**: Snoopy1412
-- **Estimated Duration**: 6 weeks
-- **Budget**: 2500 USD
-- **Payee Wallet Address**: 0x3d6d656c1bf92f7028Ce4C352563E1C363C58ED5
+- Key Contributor: Snoopy1412
+- Estimated Duration: 6 weeks
+- Budget: 2500 USD
+- Payee Wallet Address: 0x3d6d656c1bf92f7028Ce4C352563E1C363C58ED5
 
 ### Tasks
 
 #### Infrastructure and Core Feature Development
 
-1. **User Interface Development**
+1. User Interface Development
 
    - Build the project’s foundational architecture using React, TypeScript, TailwindCSS, and shadcn/ui.
    - Create a user-friendly interface to optimize the user workflow.
    - Implement comprehensive responsive design to ensure compatibility across multiple devices.
    - Integrate TanStack Query for efficient server-side state management.
 
-2. **Web3 Integration**
+2. Web3 Integration
 
    - Integrate wagmi, viem, and RainbowKit to enable interactions with EVM-compatible chains.
    - Integrate @polkadot/api and @polkadot/extension-dapp to facilitate interactions with Polkadot chains.
    - Implement intelligent chain type recognition based on user selection, automatically switching to the corresponding wallet login and interaction logic.
 
-3. **Smart XCM Design**
+3. Smart XCM Design
 
-   - **HRMP Channel Smart Detection**
+   - HRMP Channel Smart Detection
 
      - Implement **automatic detection of HRMP channels between Polkadot parallel chains** to determine chain pairs eligible for XCM transfers.
      - Utilize on-chain storage data to retrieve information on all currently active parallel chain channels.
 
-   - **Chain Type and Asset Type Smart Recognition**
+   - Chain Type and Asset Type Smart Recognition
 
      - **Automatically detect whether the target chain is an EVM-compatible chain or a Polkadot chain**, dynamically adjusting the cross-chain transfer logic and process.
      - **Automatically detect and identify asset types**, determining whether assets are native tokens, synthetic assets, or tokens on EVM chains.
 
-   - **Automated Asset Information Retrieval**
+   - Automated Asset Information Retrieval
 
      - **Automatically add supported asset pairs** to ParaLink, supporting a broader range of assets and reducing manual configuration and communication costs with project teams.
      - Provide querying and filtering functionalities for asset pairs to facilitate users in selecting the assets they wish to transfer.
@@ -60,12 +60,12 @@
      - Tailor asset information retrieval to accommodate differences in on-chain asset management modules across various chains.
      - Implement custom handling for **special assets** that cannot be processed automatically, ensuring their support within ParaLink.
 
-   - **Frontend Display Optimization**
+   - Frontend Display Optimization
 
      - Handle the display of **Token and Network Logos** on the frontend, prioritizing data acquisition from [Subscan Assets Info](https://github.com/subscan-explorer/assets-info) and using default icons if necessary.
      - Ensure accurate display of asset and network information on the frontend, providing users with clear information.
 
-   - **Cross-Chain Transfer Logic Enhancement**
+   - Cross-Chain Transfer Logic Enhancement
 
      - **Implement cross-chain asset transfer logic between EVM chains and Polkadot chains**, enabling users to transfer assets across different types of chains.
      - Manage various potential exceptions during the cross-chain process to ensure asset security.
