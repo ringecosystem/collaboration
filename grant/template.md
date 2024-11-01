@@ -35,8 +35,6 @@ Please provide the following:
 - A schedule indicating when each milestone will be achieved.
 - The team's long-term plans and intentions
 
-
-
 ### Additional Information
 
 Any additional information that you think is relevant to this application that hasn't already been included.

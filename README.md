@@ -1,4 +1,4 @@
-# Collaboration
+# RingDAO Collaboration
 
 Welcome to the RingDAO community!
 
@@ -10,3 +10,6 @@ You can participate in the following ways:
 2. If you find an interesting RFP, that's a great start. Please follow the [Grant Template](./grant/template.md) and submit a pull request. We will provide feedback and help you complete the grant application.
 3. If you already have an idea, you can submit a pull request with the [Grant Template](./grant/template.md) filled out. We will provide feedback and help you complete the grant application.
 4. If you discover a bug or vulnerability in the RingDAO ecosystem, please report it on [Immunefi](https://immunefi.com/bug-bounty/ringdao/information/). We take security seriously and will reward you for your contribution.
+5. If your team is interested in establishing a long-term partnership with RingDAO to provide services, you can submit a pull request with the [Service Provider Template](./service-provider/template.md) filled out. We would be happy to discuss further.
+
+Looking forward to collaborating with you!

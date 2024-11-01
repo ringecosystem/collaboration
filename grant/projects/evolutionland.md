@@ -1,25 +1,24 @@
 # Evolution Land
 
-## **Project Description**
+## Description
 
-Evolution Land is the first **Metaverse+Gamefi+cross-chain game** with each continent built on different blockchain networks, such as the first Atlantis continent. The game will have up to 26 continents, each of which is deployed on a different public chain. Four continents have been built so far and have been deployed on Ethereum (Atlantis Continent), Tron (Byzantine), Columbus (Crab Network), Dawning (Heco) and Eden(Polygon).
+Evolution Land is the first Metaverse + Gamefi + cross-chain game with each continent built on different blockchain networks, such as the first Atlantis continent. The game will have up to 26 continents, each of which is deployed on a different public chain. Four continents have been built so far and have been deployed on Ethereum (Atlantis Continent), Tron (Byzantine), Columbus (Crab Network), Dawning (Heco) and Eden(Polygon).
 
 Evolution Land integrates various gameplays, including management, collection, education, gene, battle, auction, and game, which will continuously be evolving.
 
-**One Dapp One Community Metaverse**
-10+ projects have announced plans to build communities in Evolution Land to present project information and give back rewards to the community fans.
+One Dapp One Community Metaverse 10+ projects have announced plans to build communities in Evolution Land to present project information and give back rewards to the community fans.
 
-### **Why is this project is good for the Crab ecosystem:**
+## Why is this project is good for the Crab ecosystem?
 
 1. Evolution Land is the first build GameFi project on Crab Smart Chain. Evolution Land has been built on four networks - Ethereum, Tron, HECO, and Polygon. Each of them has at least 200,000+ $RING TVL. It will definately bring more TVL on Crab Smart Chain.
 2. Evolution Land has 1000+ DAU from HECO, Ethereum, Tron, and Polygon. And will build on BSC and Moonriver in the future. It could introduce more users and assets from other chains.
 3. Multi-chain and cross-chain is an important gameplay on Evolution Land. This point is similar to the Darwinia Bridge.
 
-### **How you will integrate this project into Crab:**
+## How you will integrate this project into Crab?
 
 Evolution Land will take the advantage of EVM module on Crab Smart Chain. We will deploy our contract(ERC20, ERC721, ERC1155) on CSC. We already deployed our alpha version for testing. Once our beta is released we will enable the community and Darwinia to start minting and playing.
 
-### **Team**
+## Team
 
 - Tiny Liu ( Project Manager of Evolution Land )
 - Shell Wan ( Front-end Engineer )
@@ -27,32 +26,30 @@ Evolution Land will take the advantage of EVM module on Crab Smart Chain. We wil
 - Echo Hu ( Solidity Engineer)
 - Xinyue Wang ( UI/UX Designer )
 
-### **Legal Structure**
+## Legal Structure
 
 Currently Evolution Land has no defined legal structure other then a Dapp created by Evolution Land team.
 
-## **Team Code Repos**
+## Code Repos
 
-- Project Repo
-[https://github.com/evolutionlandorg](https://github.com/evolutionlandorg) (Evolution Land)
+* [https://github.com/evolutionlandorg](https://github.com/evolutionlandorg) (Evolution Land)
+* Contracts Repo:
+    * https://github.com/evolutionlandorg/apostle
+    * https://github.com/evolutionlandorg/common-contracts
+    * https://github.com/evolutionlandorg/furnace
+    * https://github.com/evolutionlandorg/governance
+    * https://github.com/evolutionlandorg/land
+    * https://github.com/evolutionlandorg/market-contracts
+    * https://github.com/evolutionlandorg/pve
+    * https://github.com/evolutionlandorg/raffle
+    * https://github.com/evolutionlandorg/staker
+    * https://github.com/evolutionlandorg/token-contracts
 
-- Contracts' Repo
-https://github.com/evolutionlandorg/apostle
-https://github.com/evolutionlandorg/common-contracts
-https://github.com/evolutionlandorg/furnace
-https://github.com/evolutionlandorg/governance
-https://github.com/evolutionlandorg/land
-https://github.com/evolutionlandorg/market-contracts
-https://github.com/evolutionlandorg/pve
-https://github.com/evolutionlandorg/raffle
-https://github.com/evolutionlandorg/staker
-https://github.com/evolutionlandorg/token-contracts
+## Collaborative Grant Proposal and Current Development
 
-## **Collaborative Grant Proposal and Current Development**
+### Proposal
 
-### **Proposal**
-
-1. Build and deploy Evolution Land on Crab Network: a **Metaverse+Gamefi+cross-chain game**. 
+1. Build and deploy Evolution Land on Crab Network: a Metaverse + Gamefi + cross-chain game. 
 2. Start marketing events on Crab continent - Columbus.
 
 Evolution Land will provide the following to Darwinia and Crab community:
@@ -62,7 +59,7 @@ Evolution Land will provide the following to Darwinia and Crab community:
 - Farm pool for users to stake $xRING
 - 70% of profit will return to users
 
-## Evolution Land **Beta Version(Only for test):**
+### Evolution Land Beta Version(Only for test):
 
 The beta version of Evolution Land is what is applying for CRAB grant program ( [Preview Link](https://www.evolution.land.l2me.com/land/3)
 ), and the delivery scope has:
@@ -75,11 +72,11 @@ The beta version of Evolution Land is what is applying for CRAB grant program ( 
 - Profession system
 - Only contracts are open-source, UX is only used for experience
 
-## **Future Development Roadmap**
+## Future Development Roadmap
 
 The following milestones are not included in the collaboration grant assessment and is only here to communicate Evolution Land team's vision and direction.
 
-### Evolution Land **1.0**
+### Evolution Land 1.0
 
 - Basic mining gameplay including drills and apostles mining functions
 - Apostle Adventure - PVE gameplay
@@ -88,20 +85,20 @@ The following milestones are not included in the collaboration grant assessment 
 - Apostle breeding system
 - Profession system
 
-### Evolution Land **2.0:**
+### Evolution Land 2.0
 
 - Liquidity pools and farm pools
 - DAO
 
-### Evolution Land **3.0:**
+### Evolution Land 3.0
 
 - PVP gameplay
 
-### Evolution Land **4.0:**
+### Evolution Land 4.0
 
 - Building system
 
-## **Colabriation Funding**
+## Collaboration Funding
 
 Total funding amount: 6,000 USDT. Payment to be made in two instalments to the value of $ 3,000 USD.
 
@@ -113,26 +110,21 @@ The second payment is paid in USDT to the value of $3,000 USD on completion of t
 
 The 2nd payment date: When the beta version has passed the inspection.
 
-## **Additional Information**
+## Additional Information
 
 To trial our pre-beta product please go to: Evolution Land. You will need the following:
 
 - Metamask or EVM related wallet
 - Crab for gas and xRING for purchase
 
-
-### **What work has been done so far?**
+### What work has been done so far?
 
 Evolution Land's minimum viable Product has been made and is nearing its beta testing phase which is to be tested by the Darwinia community In the end of Feb 2022.
 
-### **Are there any teams who have already contributed (financially) to the project?**
-
-No.
-
-### **Are there any other projects similar to yours? If so, how is your project different?**
+### Are there any other projects similar to yours? If so, how is your project different?
 
 On Crab Network we are the first Gamefi project.
 
-### **Competition**
+### Competition
 
 On other chains we have competitors like the Sandbox, Decentraland, Mobox, and CryptoVoxel. We have our unique ecologic system that could simulate real behavior on our Dapp. Also we will have more gameplays that could attract players to stay in the Dapp.
