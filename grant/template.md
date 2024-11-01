@@ -2,39 +2,42 @@
 
 ## Project Name
 
-### Description
+## Description
 
-Please provide the following:
+Provide a high-level description of the project, including its background and the problem it aims to solve.
 
-- A brief description of the project.
-- An indication of why this project is good for the RingDAO ecosystem.
-- An indication of how you will integrate this project into RingDAO.
+## Team
 
-### Team
+### Team Background
 
-- A brief description of team background
-- Names of team members
+### Team Members
 
-### Legal Structure
+## Proposal Details
 
-Please provide the name and registered address of the legal entity executing the project. These details can also be shared privately via the Google Form used for your application.
+### Proposal Overview
 
-### Team Code Repos
+Provide a comprehensive overview of your proposal, including the following technical details:
 
-- https://github.com/<your_repo>
+* Technical Approach: Describe the technical approach you will take to achieve the project's goals. Include any relevant technologies, frameworks, and methodologies.
+* Challenges: Identify potential technical challenges and how you plan to address them.
+* Expected Outcomes: Outline the expected outcomes and deliverables of the project.
+
+Ensure that your proposal is detailed enough to give a clear understanding of the project's scope and feasibility.
+
+### Code Repositories
+
+* https://github.com/<your_repo>
 
 ### Development Roadmap
 
-This section should break out the development roadmap into a number of milestones. Please ensure this section is sufficently detailed. The length will vary depending on the project but approximately 2 pages is a good guideline. It should also be clear how the project is related to RingDAO.
+Break down your proposal's development roadmap into achievable milestones. Ensure this section is detailed enough. Include the following:
 
-Please provide the following:
+* For each milestone:
+  * A detailed specification of the software for each milestone. The level of detail should be sufficient for testing the software against the specification.
+  * For applications with public financial information, include the total amount of funding requested per milestone.
+* A schedule indicating when each milestone will be achieved.
+* The team's long-term plans and intentions.
 
-- For each milestone:
-  - The specification of the software achieved after completion of each milestone. The level of detail must be high enough so that we are able to test that the software meets the specification.
-  - For applications with public financial information, please include total amount of funding requested per milestone. Funding can be in fiat (USDT or Dai ) or in RING. It can also be in a combination of fiat and RING. 
-- A schedule indicating when each milestone will be achieved.
-- The team's long-term plans and intentions
+## Additional Information
 
-### Additional Information
-
-Any additional information that you think is relevant to this application that hasn't already been included.
+Include any additional information relevant to this application that hasn't been covered already.
