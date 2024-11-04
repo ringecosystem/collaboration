@@ -25,7 +25,7 @@ payment: 0xxxx (Ethereum)
 
 ### GCP Maintenance
 
-- Responsible for the daily maintenance and management of Google Cloud Platform (GCP), including resource optimization,     monitoring, and troubleshooting to ensure high availability and stability of services.
+- Responsible for the daily maintenance and management of Google Cloud Platform (GCP), including resource optimization, monitoring, and troubleshooting to ensure high availability and stability of services.
 
 ### Application Server Maintenance
 
