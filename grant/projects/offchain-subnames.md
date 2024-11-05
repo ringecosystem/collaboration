@@ -30,36 +30,61 @@ This project addresses the need for efficient subdomain management within the Da
 
 ## Team Code Repos
 
+- https://github.com/wuminzhe/basenames
+  The repo for the basenames contracts.
+
 - https://github.com/wuminzhe/offchain-resolver  
-  This is the mono-repo for this project. All the code related is put here.
+  The repo provides the offchain resolve client.
+
+- https://github.com/wuminzhe/subnames-ui
+  The repo for the UI.
+
+- https://github.com/wuminzhe/subnames-gateway
+  The repo for the offchain gateway.
 
 ## Development Roadmap
 
-### Milestone 1
+### Milestone 0
 
-Estimated Duration: 4 ~ 6 weeks
+Estimated Duration: 2 weeks
 
-Cost: 1 ETH
+Cost: 0.5 ETH
 
 Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 
 #### Tasks:
 
-1. Requirement gathering.
-2. Contracts  
-   1. Implement an OffchainResolver contract.   
-   2. Implement a SubnameRegistry contract. 
-   3. Audit the contracts.
-   4. Deploy to testnet.
-3. Gateway  
-   1. Implement a gateway to facilitate communication between Ethereum and Darwinia Chain.
-   2. Deploy to testnet.
-5. UI
-    1. Implement a sophiscated wallet connect logic.
-    2. Implement logic for
-       1. registration with a fixed fee.
-       2. transfer.
-    3. Deploy to testnet.
+1. Reading the [basenames](https://github.com/base-org/basenames) repo to know the basic logic and settings and know if it is feasible to implement the offchain subnames based on it.
+   
+   1. register & reverse register
+   2. resolve & reverse resolve
+   2. renew
+
+2. Register a real basename([akiwu.base.eth](https://www.base.org/name/akiwu)) on the https://www.base.org/names to verify the operations logic.
+
+### Milestone 1
+
+Estimated Duration: 6 weeks
+
+Cost: 0.5 ETH
+
+Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
+
+#### Tasks:
+
+1. Contracts
+   1. Fork basenames repo and update the contracts to align with Darwinia Chain.
+   2. Deploy to testnets(sepolia & koi).
+2. Gateway  
+   1. Implement the EIP-3668 offchain gateway.
+   2. Deployment.
+3. UI
+    1. Implement logic for
+       1. wallet connect including customizing it to support subname.
+       2. register including reverse register and fee calculation
+       3. renew within GRACE_PERIOD
+    2. Deploy to koi testnet.
+4. Integration test
 6. Production deployment
 
 ### Additional Information
