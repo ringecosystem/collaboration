@@ -28,6 +28,10 @@ This project addresses the need for efficient subdomain management within the Da
 - Aki Wu([wuminzhe](https://github.com/wuminzhe))  
   A full stack developer focused on the web3 space. He has been working on darwinia ecosystem for a long time.
 
+- Echo([Echo](https://github.com/hujw77))  
+  Contracts developer from Itering.
+
+
 ## Team Code Repos
 
 - https://github.com/wuminzhe/basenames
@@ -44,37 +48,22 @@ This project addresses the need for efficient subdomain management within the Da
 
 ## Development Roadmap
 
-### Milestone 0
-
-Estimated Duration: 2 weeks
-
-Cost: 0.5 ETH
-
-Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
-
-#### Tasks:
-
-1. Reading the [basenames](https://github.com/base-org/basenames) repo to know the basic logic and settings and know if it is feasible to implement the offchain subnames based on it.
-   
-   1. register & reverse register
-   2. resolve & reverse resolve
-   2. renew
-
-2. Register a real basename([akiwu.base.eth](https://www.base.org/name/akiwu)) on the https://www.base.org/names to verify the operations logic.
-
 ### Milestone 1
 
-Estimated Duration: 6 weeks
+Estimated Duration: 8 weeks
 
-Cost: 0.5 ETH
+Cost: 1 ETH
 
 Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 
 #### Tasks:
 
 1. Contracts
-   1. Fork basenames repo and update the contracts to align with Darwinia Chain.
-   2. Deploy to testnets(sepolia & koi).
+   1. Pre research.  
+      Echo did and will continue the research.   
+      Aki registered a real basename([akiwu.base.eth](https://www.base.org/name/akiwu)) on the https://www.base.org/names to verify the operations logic.
+   2. Fork basenames repo and update the contracts to align with Darwinia Chain.
+   3. Deploy to testnet(Dariwnia Koi).
 2. Gateway  
    1. Implement the EIP-3668 offchain gateway.
    2. Deployment.
@@ -82,10 +71,9 @@ Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
     1. Implement logic for
        1. wallet connect including customizing it to support subname.
        2. register including reverse register and fee calculation
-       3. renew within GRACE_PERIOD
-    2. Deploy to koi testnet.
-4. Integration test
-6. Production deployment
+       3. renew
+    2. Deploy to testnet(Darwinia Koi).
+4. Production deployment
 
 ### Additional Information
 
