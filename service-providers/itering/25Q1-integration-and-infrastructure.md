@@ -2,7 +2,7 @@
 applicant: Itering
 type: Integration and Infrastructure Support
 timeline: 2025-Q1
-costs: x,xxx,xxx USDC
+costs: 18,000 USDC
 payment: 0xxxx (Ethereum)
 ---
 
@@ -11,6 +11,7 @@ payment: 0xxxx (Ethereum)
 ### Member
 
 - [Yalin Cai](https://github.com/fewensa)
+- [Echo Hu](https://github.com/hujw77)
 
 ### Contact
 
@@ -22,6 +23,10 @@ payment: 0xxxx (Ethereum)
 - Name: ITERING TECH PTE. LTD
 
 ## Scope
+
+### Integration
+
+- We will continue to drive the integration of third-party systems, further enhancing and expanding the diversity and interoperability of the RingDAO ecosystem. For all related updates and tracking issues, feel free to follow: https://github.com/ringecosystem/integration/issues to stay informed and participate in the discussions.
 
 ### GCP Maintenance
 
