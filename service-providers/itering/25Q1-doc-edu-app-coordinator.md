@@ -27,8 +27,8 @@ payment: 0x0678E7cB36D3b9A591dF7E42CA23074aF977C52B (Arbitrum One)
 
 High-quality documentation is crucial for the success of any project, as it helps attract new users and assists existing users in understanding the project better. This service will provide comprehensive documentation support for RingDAO, divided into two main categories:
 
-1. **Official Documentation**: This includes support for products within RingDAO, such as Darwinia docs, MsgPort docs, XAPI docs, website content, etc. These documents will be maintained long-term, updated according to product changes, and regularly polished.
-2. **Community Documentation**: This includes tutorials, monthly reports, and collaborative documents with other projects. These documents are essential and more flexible to accommodate community needs.
+1. Official Documentation: This includes support for products within RingDAO, such as Darwinia docs, MsgPort docs, XAPI docs, website content, etc. These documents will be maintained long-term, updated according to product changes, and regularly polished.
+2. Community Documentation: This includes tutorials, monthly reports, and collaborative documents with other projects. These documents are essential and more flexible to accommodate community needs.
 
 ### Community Education
 
