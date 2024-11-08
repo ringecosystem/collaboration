@@ -3,7 +3,7 @@ applicant: Itering
 type: Integration and Infrastructure Support
 timeline: 2025-Q1
 costs: 18,000 USDC
-payment: 0xxxx (Ethereum)
+payment: 0x0678E7cB36D3b9A591dF7E42CA23074aF977C52B (Arbitrum One)
 ---
 
 ## Team
@@ -12,6 +12,7 @@ payment: 0xxxx (Ethereum)
 
 - [Yalin Cai](https://github.com/fewensa)
 - [Echo Hu](https://github.com/hujw77)
+- [Bear Wang](https://github.com/boundless-forest)
 
 ### Contact
 
@@ -28,11 +29,12 @@ payment: 0xxxx (Ethereum)
 
 - We will continue to drive the integration of third-party systems, further enhancing and expanding the diversity and interoperability of the RingDAO ecosystem. For all related updates and tracking issues, feel free to follow: https://github.com/ringecosystem/integration/issues to stay informed and participate in the discussions.
 
-### GCP Maintenance
+### Cloud Maintenance
 
-- Responsible for the daily maintenance and management of Google Cloud Platform (GCP), including resource optimization, monitoring, and troubleshooting to ensure high availability and stability of services.
+- Cost of Cloud services
+- Responsible for the daily maintenance and management of Cloud (GCP etc.), including resource optimization, monitoring, and troubleshooting to ensure high availability and stability of services.
 
-### Application Server Maintenance
+### DevSecOps and Maintenance
 
 - Manage and maintain application servers, including updates, backups, performance optimization, and recovery from failures, ensuring efficient operation and security.
 
@@ -48,7 +50,7 @@ payment: 0xxxx (Ethereum)
 
 - Implement and maintain server monitoring systems, keeping track of resource usage, performance bottlenecks, and potential issues in real-time, and promptly respond to anomalies and resolve them.
 
-### CI/CD Support
+### CI/CD
 
 - Provide support for Continuous Integration and Continuous Deployment (CI/CD) pipelines using tools like GitHub Actions, optimizing automation workflows to ensure codebase reliability and deployment efficiency.
 
