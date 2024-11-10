@@ -38,46 +38,96 @@ This project addresses the need for efficient subdomain management within the Da
   The repo for the basenames contracts.
 
 - https://github.com/wuminzhe/offchain-resolver  
-  The repo provides the offchain resolve client.
+  1. the offchain gateway.
+  2. the offchain resolve client.
 
 - https://github.com/wuminzhe/subnames-ui
   The repo for the UI.
-
-- https://github.com/wuminzhe/subnames-gateway
-  The repo for the offchain gateway.
 
 ## Development Roadmap
 
 ### Milestone 1
 
-Estimated Duration: 8 weeks
+Estimated Duration: 2 weeks
 
-Cost: 1 ETH
+Cost: 0.25 ETH
 
 Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 
 #### Tasks:
 
-1. Contracts
-   1. Pre research.  
-      Echo did and will continue the research.   
-      Aki registered a real basename([akiwu.base.eth](https://www.base.org/name/akiwu)) on the https://www.base.org/names to verify the operations logic.
-   2. Fork basenames repo and update the contracts to align with Darwinia Chain.
-   3. Deploy to testnet(Dariwnia Koi).
-2. Gateway  
-   1. Implement the EIP-3668 offchain gateway.
-   2. Deployment.
-3. UI
-    1. Implement logic for
-       1. wallet connect including customizing it to support subname.
-       2. register including reverse register and fee calculation
-       3. renew
-    2. Deploy to testnet(Darwinia Koi).
-4. Production deployment
+1. Contracts pre research & implementation.  
+2. Adjust the contracts to align with Darwinia Chain.
+3. Deploy to testnet(Darwinia Koi).
 
-### Additional Information
+Deliverables:
 
-#### Future work
+- The contracts source code in MIT license.
+- The deployed contracts address.
+
+### Milestone 2
+
+Estimated Duration: 2 weeks
+
+Cost: 0.25 ETH
+
+Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
+
+#### Tasks:
+
+1. Gateway  
+   1. Implement the EIP-3668 offchain gateway to query the subname-address mappings from Darwinia Chain.
+   2. Deploy to testnet(Darwinia Koi).
+
+Deliverables:
+
+- The gateway source code in MIT license.
+- The deployed online gateway service.
+
+### Milestone 3
+
+Estimated Duration: 2 weeks
+
+Cost: 0.25 ETH
+
+Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
+
+#### Tasks:
+
+1. Implement frontend logic for
+    1. wallet connect including customizing it to support subname.
+    2. register including reverse register and fee calculation
+    3. renew/extend
+2. Deploy to testnet(Darwinia Koi).
+
+Deliverables:
+
+- The frontend source code in MIT license.
+- The deployed online frontend ui.
+
+### Milestone 4
+
+Estimated Duration: 2 weeks
+
+Cost: 0.25 ETH
+
+Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
+
+#### Tasks:
+
+1. Deploy to mainnet(Darwinia Chain).
+
+Deliverables:
+
+- The contracts addresses on Darwinia Chain.
+- The gateway service targetting Darwinia Chain.
+- The frontend ui on Darwinia Chain.
+
+## Additional Information
+
+Please note that this grant includes contract and solution contributions from Itering. As Itering’s work is provided separately as a Service Provider to RingDAO, compensation for these efforts is not included in the grant amount. The full grant reward will be allocated to Aki for fulfilling the grant scope, with Itering offering the necessary support.
+
+#### Future plans
 
 1. Cross-chain data fetching with storage proofs.  
    This solution does not require a independent signer. Instead, it uses the data availability feature of Darwinia Chain.  
