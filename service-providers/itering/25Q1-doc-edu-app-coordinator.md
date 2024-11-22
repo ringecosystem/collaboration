@@ -48,6 +48,7 @@ With the increasing number of applications built around RingDAO, it is crucial t
 - RingDAO New Site: Oversee the development of the new RingDAO website, focusing on a refreshed look and improved user experience.
 - MsgPort New Site: Manage the development of the new MsgPort website, ensuring a modern design and enhanced user experience.
 - XAccount App: Coordinate and design the new version of the XAccount app.
+- Darwinia Apps site: Maintain and update the Darwinia Apps site, ensuring it remains up-to-date and beneficial for users.
 
 Additionally, responsibilities include:
 
