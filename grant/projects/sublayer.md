@@ -2,7 +2,7 @@
 
 ### Project Description
 
-SubLayer is the next generation digital asset marketplace across multiple blockchains. It connects creators and investors as a community to collaborate on important Web3 Trends.
+SubLayer (https://sublayer.art) is the next generation digital asset marketplace across multiple blockchains. It connects creators and investors as a community to collaborate on important Web3 Trends.
 
 SubLayer is fully EVM compatible and easily accessible using metamask and phantom wallets. Embracing Darwinia infrastructure, SubLayer will benefit from its data security, transaction efficiency and low gas fee, thus will bring more creators, investors and gamers into the ecosystem.
 
@@ -16,7 +16,7 @@ SubLayer team started its web3 journey in 2021 and released a early version of d
 
 ### Team Code Repos
 
-- TBA
+- https://github.com/sublayer-art
 
 ### Development Roadmap
 
