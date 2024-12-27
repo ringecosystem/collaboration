@@ -63,8 +63,6 @@ SubLayer phase 1 development work was kicked off after CNY 2024. Phase 1 is expe
 
 As SubLayer team believes, all blockchain ecosystem will merge into the same metaverse, so we build to make this come true.
 
-### Delivery Status
-
 ### Delivery
 
 #### Phase 1
