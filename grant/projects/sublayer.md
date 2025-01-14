@@ -2,9 +2,11 @@
 
 ### Project Description
 
-SubLayer is the next generation digital asset marketplace across multiple blockchains. It connects creators and investors as a community to collaborate on important Web3 Trends.
+SubLayer (https://sublayer.art) is the next generation digital asset marketplace across multiple blockchains. It connects creators and investors as a community to collaborate on important Web3 Trends.
 
 SubLayer is fully EVM compatible and easily accessible using metamask and phantom wallets. Embracing Darwinia infrastructure, SubLayer will benefit from its data security, transaction efficiency and low gas fee, thus will bring more creators, investors and gamers into the ecosystem.
+
+Sublayer social media: X (https://x.com/sublayerart)
 
 ### Team
 
@@ -16,7 +18,7 @@ SubLayer team started its web3 journey in 2021 and released a early version of d
 
 ### Team Code Repos
 
-- TBA
+- https://github.com/sublayer-art
 
 ### Development Roadmap
 
@@ -60,3 +62,32 @@ SubLayer will also develop advanced trading features like biding, rewarding, dai
 SubLayer phase 1 development work was kicked off after CNY 2024. Phase 1 is expected to finish before end of March 2024.
 
 As SubLayer team believes, all blockchain ecosystem will merge into the same metaverse, so we build to make this come true.
+
+### Delivery
+
+#### Phase 1
+
+SubLayer phase 1 onboarded Darwinia Koi Testnet in Sep and Mainnet in Nov 2024.
+
+The delivery includes:
+
+- Smart contract(https://github.com/sublayer-art/sublayer-protocol)
+    - ERC721 NFT exchange using order book mechanism
+    - ERC721 NFT template with enumerable and uri storage extension
+
+- Web repo (https://github.com/sublayer-art/sublayer-web)
+    - Trending NFT collection list
+    - NFT collection launchpad
+    - NFT marketplace supporting buy and list
+    - User NFT portfolio
+    - Data analysis on minting(count) and trading(count and price)
+    - Code is written in React + TypeScript + Vite framework
+
+- Server repo (https://github.com/sublayer-art/sublayer-api)
+    - NFT events indexing (Registered sublayer collections)
+    - NFT collection, minting, trading, analyzing API
+    - API document included in the code using swagger
+
+### Conclusion
+
+The Sublayer project has successfully completed the first-stage demand for NFT trading market in Ring DAO ecosystem, and through interactions with the community, we also got good feedback. We are delighted to receive $4,000 support from Ring DAO for Grant. Next, Sublayer will continue to improve and strive to become the leading NFT trading markets in both Darwinia and Polka ecosystems.
