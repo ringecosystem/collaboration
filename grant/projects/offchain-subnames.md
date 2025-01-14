@@ -44,7 +44,7 @@ This project addresses the need for efficient subdomain management within the Da
 
 Estimated Duration: 2 weeks
 
-Cost: 750 USDT
+Cost: 1000 USDT
 
 Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 
@@ -72,7 +72,7 @@ Deliverables:
 
 Estimated Duration: 2 weeks
 
-Cost: 750 USDT
+Cost: 500 USDT
 
 Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 
@@ -121,9 +121,8 @@ Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 
 1. Deploy to mainnet(L2 Contracts on Darwinia Chain & L1 Resolver on Ethereum).
 2. Deploy offchian gateway and subnames indexer
-3. Including 6 months of maintenance and support.  
-   1. Bug fixing.  
-   2. Improve the already developed features.  
+3. Bug fixing.  
+4. Improve the already developed features.  
 
 ## Additional Information
 
