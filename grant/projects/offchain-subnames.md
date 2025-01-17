@@ -27,7 +27,7 @@ This project addresses the need for efficient subdomain management within the Da
 - Bear([Bear](https://github.com/boundless-forest))
   Project Manager from Itering. 
   
-- Yuqi(yuqi@itering.com)
+- Yuqi(yuqi.liu@itering.io)
   UI Designer from Itering.
 
 ## Team Code Repos
