@@ -2,18 +2,18 @@
 
 ## Project Description
 
-This project aims to implement an offchain subnames solution for the 'ringdao.eth' Ethereum Name Service (ENS) domain but keeps the subname records on Darwinia Chain. 
+This project aims to implement an offchain subnames solution for the 'darwinia.eth' Ethereum Name Service (ENS) domain but keeps the subname records on Darwinia Chain. 
 
 It leverages the EIP-3668 specification to enable efficient and cost-effective management of subname-address mappings off the Ethereum mainnet. By storing these mappings on Darwinia Chain, the project offers a scalable approach to handle a large number of subdomains without incurring high gas fees.
 
-The solution utilizes a customized OffchainResolver contract on Ethereum, which works with a gateway service connected to the Darwinia Chain. This setup allows for seamless resolution of subnames (e.g., 'foo.ringdao.eth') while maintaining the security and decentralization benefits of the ENS.
+The solution utilizes a customized OffchainResolver contract on Ethereum, which works with a gateway service connected to the Darwinia Chain. This setup allows for seamless resolution of subnames (e.g., 'foo.darwinia.eth') while maintaining the security and decentralization benefits of the ENS.
 
 This project addresses the need for efficient subdomain management within the Darwinia ecosystem, as outlined in the RFP (https://github.com/ringecosystem/collaboration/issues/61), and demonstrates the potential for cross-chain interoperability in domain name services.
 
 ### This project will benefit the Darwinia ecosystem in the following ways:
 
 1. It will provide a more efficient and cost-effective way to manage subdomains on the Darwinia Chain, reducing the need for users to pay high gas fees on Ethereum.
-2. It will enhance the usability of the 'ringdao.eth' domain by allowing users to register, update, and resolve subnames with reduced costs and improved performance.
+2. It will enhance the usability of the 'darwinia.eth' domain by allowing users to register, update, and resolve subnames with reduced costs and improved performance.
 3. It will demonstrate the potential for cross-chain interoperability in domain name services, opening up new possibilities for collaboration and innovation within the Darwinia ecosystem.
 
 ## Team
@@ -24,6 +24,11 @@ This project addresses the need for efficient subdomain management within the Da
 - Echo([Echo](https://github.com/hujw77))  
   Contracts developer from Itering.
 
+- Bear([Bear](https://github.com/boundless-forest))
+  Project Manager from Itering. 
+  
+- Yuqi(yuqi@itering.com)
+  UI Designer from Itering.
 
 ## Team Code Repos
 
@@ -50,7 +55,7 @@ Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 
 #### Tasks:
 
-1. Configure the contracts to support "ringdao.eth" domain.
+1. Configure the contracts to support "ringdao.eth" domain for testing. 
 2. Deploy contracts to testnet(Darwinia Koi).
 3. Implement and deploy the offchain gateway.
 4. Implement the Wallet Connect button including customizing it to support subname.
@@ -78,17 +83,19 @@ Address: 0x2Da8ccfe0dD2165B8d939eaBf4E3697C4Adb6FDd
 
 #### Tasks:
 
-1. Implement the subname list page.
-2. Support primary domain name.
-3. Support transfer subname.
-4. An indexer for syncing the subname list from Darwinia Koi.
+1. Configure the contracts to support "darwinia.eth" domain. 
+2. Deploy contracts to Darwinia Crab.
+3. Deploy the offchain gateway for Darwinia Crab.
+4. An indexer for syncing the subname list from Darwinia Crab.
+5. Implement the subname list page.
+6. Support primary domain name.
+7. Support transfer subname.
 
 Deliverables:
 
 - The UI source code.
-- A deployed subnames indexer.
-
-** Note: this milestone is on going. **
+- A deployed gateway service targetting Darwinia Crab.
+- A deployed subnames indexer for Darwinia Crab.
 
 ### Milestone 3
 
