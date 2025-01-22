@@ -10,21 +10,27 @@ This platform will serve as a crucial infrastructure piece for the Darwinia ecos
 
 ### Team
 
-- Snoopy1412([@snoopy1412](https://github.com/snoopy1412))
+- [@snoopy1412](https://github.com/snoopy1412)
+- [Bear Wang](https://github.com/boundless-forest) from Itering
+- [Echo](https://github.com/hujw77) from Itering
+- [Yalin Cai](https://github.com/fewensa) from Itering
+- [Yuqi Lau](https://github.com/DreUncle) from Itering
 
 ### Team Code Repos
 
 - [https://github.com/ringecosystem/degov](https://github.com/ringecosystem/degov)
 
-### Development Roadmap
+## Grant Information
+
+**Key Contributor**: Snoopy1412
 
 ### **Phase 1**
 
-Estimated Duration: 6 weeks
+- Estimated Duration: 6 weeks
 
-Cost: 2500 USD
+- Cost: 2500 USD
 
-Address: 0x3d6d656c1bf92f7028Ce4C352563E1C363C58ED5
+- Address: 0x3d6d656c1bf92f7028Ce4C352563E1C363C58ED5
 
 #### Tasks:
 
@@ -50,3 +56,7 @@ Address: 0x3d6d656c1bf92f7028Ce4C352563E1C363C58ED5
    - **Cross-chain Proposal Flow**: Implement user interfaces for creating and executing proposals with clear operational guidance.
    - **Status Synchronization and Feedback**: Design tracking and feedback mechanisms for operations to enhance user experience.
    - **History Viewing**: Implement query and display functionality for proposal and voting history.
+
+## Additional Information
+
+Please note that Degov is a cross-team collaboration project, with other major contributions coming from Itering, including Bear Wang, Echo, Yalin Cai, Yuqi Lau, and others, has provided crucial development work on core solution architecture and indexing infrastructure. Their expertise and contributions have been instrumental in building a robust foundation for the platform. Since Itering's contributions are provided separately as a Service Provider of RingDAO, the grant amount does not include compensation for these efforts. The entirety of this grant's rewards will be allocated to snoopy1412 for completing the grant scope, with Itering providing the necessary support.
