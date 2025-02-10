@@ -125,7 +125,14 @@ Deliverables:
 
 ## Additional Information
 
-Please note that this grant includes contract and solution contributions from Itering. As Itering’s work is provided separately as a Service Provider to RingDAO, compensation for these efforts is not included in the grant amount. The full grant reward will be allocated to Aki for fulfilling the grant scope, with Itering offering the necessary support.
+1. The deployed contracts's owner will be transferred to RingDAO which means RingDAO will manage the contracts.
+2. The price of subname:
+   - 3 letters: 100000 RING per year.
+   - 4 letters: 10000 RING per year.
+   - 5~9 letters: 1000 RING per year.
+   - 10 letters or longer: 100 RING per year.
+3. 100% of total subname sale income of the first year will be transferred to Aki. 
+4. This grant includes contracts and solution contributions from Itering. As Itering’s work is provided separately as a Service Provider to RingDAO, compensation for these efforts is not included in the grant amount. The full grant reward will be allocated to Aki for fulfilling the grant scope, with Itering offering the necessary support.
 
 #### Future plans
 
