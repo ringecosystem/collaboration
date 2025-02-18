@@ -2,7 +2,7 @@
 applicant: Itering
 type: Research & Development & App Coordinator & Audit 
 timeline: 2025-Q2
-costs: todo
+costs: 8,000 USDC + 1,500 * runtime upgrade + 500 * hotfix
 payment: 0x0678E7cB36D3b9A591dF7E42CA23074aF977C52B (Arbitrum One)
 ---
 
@@ -13,7 +13,6 @@ payment: 0x0678E7cB36D3b9A591dF7E42CA23074aF977C52B (Arbitrum One)
 - [Bear Wang](https://github.com/boundless-forest)
 - [Denny Wang](https://github.com/hackfisher)
 - [Echo Hu](https://github.com/hujw77)
-- [Xavier Lau](https://github.com/AurevoirXavier)
 - Itering Audit Team
 
 ## Contact
