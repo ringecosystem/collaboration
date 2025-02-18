@@ -13,6 +13,7 @@ payment: 0x0678E7cB36D3b9A591dF7E42CA23074aF977C52B (Arbitrum One)
 - [Bear Wang](https://github.com/boundless-forest)
 - [Denny Wang](https://github.com/hackfisher)
 - [Echo Hu](https://github.com/hujw77)
+- [Xavier Lau](https://github.com/AurevoirXavier) From Subscan Team 
 - Itering Audit Team
 
 ## Contact
