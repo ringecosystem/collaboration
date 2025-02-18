@@ -13,7 +13,6 @@ payment: 0x0678E7cB36D3b9A591dF7E42CA23074aF977C52B (Arbitrum One)
 - [Bear Wang](https://github.com/boundless-forest)
 - [Denny Wang](https://github.com/hackfisher)
 - [Echo Hu](https://github.com/hujw77)
-- [Guantong Ji](https://github.com/jiguantong)
 - [Xavier Lau](https://github.com/AurevoirXavier)
 - Itering Audit Team
 
@@ -83,8 +82,28 @@ payment: 0x0678E7cB36D3b9A591dF7E42CA23074aF977C52B (Arbitrum One)
 
 ### Msgport
 
-todo!
+#### Technical Assistance
+
+- Assist in the **integtion and configuration** of Msgport for new network environments.
+- Troubleshoot and resolve any issues related to **cross-chain message delivery**.
+
+#### Maintenance
+
+- **Relayer Node Maintenance**: Ensure the stability and performance of nodes that handle **Oracle Relayer Messaging Protocol (ORMP)** message relaying.
+- **ORMP Indexer Maintenance**: Manage indexing operations for ORMP messages to ensure data accessibility.
+- **Message Monitor**: Oversee message flow and monitor system health to ensure stable ORMP message processing.
+- **MsgScan**: Ensure accurate tracking and logging of messages using the MsgScan tool.
+- **MsgportAPI**: Maintain and improve the Msgport API for estimating message fees and building transaction parameters.
 
 ### XAPI
 
-todo!
+#### Develop and update off-chain nodes
+
+- **Reporter Node**: Collect and report data to the aggregator contract.
+- **Publisher Node**: Publish aggregated data results on the target chain.
+
+#### Auditing Smart Contracts
+
+- **Aggregator Contract**: Aggregate incoming reports and publish aggregated results on-chain.
+- **Staking Contract**: Manage token staking mechanisms to ensure data integrity and incentivize honest reporting.
+- **XAPI Contract**: Handle and respond to off-chain data requests on the target chain.
