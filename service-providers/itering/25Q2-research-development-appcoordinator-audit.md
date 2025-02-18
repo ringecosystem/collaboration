@@ -2,7 +2,7 @@
 applicant: Itering
 type: Research & Development & App Coordinator & Audit 
 timeline: 2025-Q2
-costs: 8,000 USDC + 1,500 * runtime upgrade + 500 * hotfix
+costs: 8,000 USDC + 1,500 USDC * runtime upgrade + 500 USDC * hotfix
 payment: 0x0678E7cB36D3b9A591dF7E42CA23074aF977C52B (Arbitrum One)
 ---
 
