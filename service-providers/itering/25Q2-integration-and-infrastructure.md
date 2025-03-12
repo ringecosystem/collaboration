@@ -25,7 +25,7 @@ payment: 0x0678E7cB36D3b9A591dF7E42CA23074aF977C52B (Arbitrum One)
 
 ### Legal Entity
 
-- Company Name: ITERING TECH PTE. LTD
+- Company Name: Helixbox Labs
 
 ---
 
