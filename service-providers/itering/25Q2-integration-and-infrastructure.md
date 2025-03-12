@@ -2,7 +2,7 @@
 
 applicant: Itering
 type: Integration and Infrastructure 
-timeline: 2025-Q2
+timeline: 2025-Q3
 costs: 18,000 USDC
 payment: 0x0678E7cB36D3b9A591dF7E42CA23074aF977C52B (Arbitrum One)
 
