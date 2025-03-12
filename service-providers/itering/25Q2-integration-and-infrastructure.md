@@ -23,7 +23,7 @@ payment: 0x0678E7cB36D3b9A591dF7E42CA23074aF977C52B (Arbitrum One)
 - Contact Person: Yalin Cai
 - Contact Email: [yalin.cai@itering.io](mailto:yalin.cai@itering.io)
 
-### Legal Entity
+### Legal Structure
 
 - Company Name: Helixbox Labs
 
