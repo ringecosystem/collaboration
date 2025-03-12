@@ -84,7 +84,7 @@ Given the architectural differences among cloud service providers, this initiati
 
 We manage and maintain blockchain nodes, including Darwinia and Crab nodes such as Bootnode, RPC, and Collator nodes, ensuring their efficient operation and enhancing network stability. Additionally, we offer professional operational support, assisting node operators with upgrades, maintenance, and troubleshooting.
 
-#### Continuous Integration and Continuous Deployment (CICD)
+#### CICD
 
 To support efficient team collaboration, we provide comprehensive CICD solutions, allowing developers to focus on business development without being distracted by build and deployment processes. Any CICD-related requests are welcome, and we will offer full technical support.
 
