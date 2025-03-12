@@ -3,7 +3,7 @@
 applicant: Itering
 type: Integration and Infrastructure 
 timeline: 2025-Q2
-costs: 
+costs: 18,000 USDC
 payment: 0x0678E7cB36D3b9A591dF7E42CA23074aF977C52B (Arbitrum One)
 
 ---
@@ -16,7 +16,7 @@ payment: 0x0678E7cB36D3b9A591dF7E42CA23074aF977C52B (Arbitrum One)
 - [Yalin Cai](https://github.com/fewensa)
 - [Echo Hu](https://github.com/hujw77)
 - [Bear Wang](https://github.com/boundless-forest)
-- [Guantong](https://github.com/jiguantong)
+- [Guantong Ji](https://github.com/jiguantong)
 
 ### Contact Information
 
