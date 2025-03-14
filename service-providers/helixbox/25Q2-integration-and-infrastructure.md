@@ -1,6 +1,6 @@
 ---
 
-applicant: Itering
+applicant: Helixbox
 type: Integration and Infrastructure 
 timeline: 2025-Q3
 costs: 18,000 USDC
@@ -21,7 +21,7 @@ payment: 0x0678E7cB36D3b9A591dF7E42CA23074aF977C52B (Arbitrum One)
 ### Contact Information
 
 - Contact Person: Yalin Cai
-- Contact Email: [yalin.cai@itering.io](mailto:yalin.cai@itering.io)
+- Contact Email: [yalin.cai@helix.box](mailto:yalin.cai@helix.box)
 
 ### Legal Structure
 
