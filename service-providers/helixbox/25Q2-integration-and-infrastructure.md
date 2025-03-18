@@ -4,7 +4,7 @@ applicant: Helixbox
 type: Integration and Infrastructure 
 timeline: 2025-Q2
 costs: 18,000 USDC
-payment: 0x0678E7cB36D3b9A591dF7E42CA23074aF977C52B (Arbitrum One)
+payment: 0xa8a0b5bEA167E9cDBaAAB52D9EF745Ea3c9fc73D (Ethereum, Base, Arbitrum, Optimism)
 
 ---
 
