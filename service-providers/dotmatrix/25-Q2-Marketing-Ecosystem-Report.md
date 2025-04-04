@@ -3,7 +3,7 @@ Applicant: DotMatrix LLP.
 Type: Marketing and Adoption Growth
 Timeline: 2025-Q2
 Investment: 7,500 USDC (2,500 USDC/month)
-Payment: 10% in RING (monthly average price) + 90% in USDC (0xfurqan.eth on Arbitrum)
+Payment: 10% in RING (monthly average price) + 90% in USDC (0xfurqan.eth on Base)
 ---
 
 ## Team
