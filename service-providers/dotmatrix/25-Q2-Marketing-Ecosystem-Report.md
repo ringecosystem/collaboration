@@ -32,7 +32,8 @@ Key initiatives include:
 1. **Ecosystem Partner Enablement**  
    - Directly support **DeGov.ai** by driving product feedback loops, co-developing GTM strategy, and refining messaging to align with target personas.  
    - Collaborate with **Helixbox** on user acquisition campaigns, marketing activations, and ecosystem grant coordination to accelerate onboarding.
-   - Act as an operational bridge across partner teams, aligning execution timelines and ensuring shared context across stakeholders.  
+   - Act as an operational bridge across partner teams, aligning execution timelines and ensuring shared context across stakeholders.
+   - Hold and host RingDAO Roundtable, BiWeekly. 
 
    - Assist in documentation, onboarding, and narrative alignment across the Ring ecosystem stack.
 
