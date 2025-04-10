@@ -30,18 +30,22 @@ DotMatrix will lead strategic support for the Darwinia and RingDAO ecosystems, w
 Key initiatives include:
 
 1. **Ecosystem Partner Enablement**  
-   - Actively support Helixbox and DeGov.ai, both key Ring ecosystem projects.  
-   - Serve as an operational bridge across teams, ensuring alignment and forward momentum.  
+   - Directly support **DeGov.ai** by driving product feedback loops, co-developing GTM strategy, and refining messaging to align with target personas.  
+   - Collaborate with **Helixbox** on user acquisition campaigns, marketing activations, and ecosystem grant coordination to accelerate onboarding.
+   - Act as an operational bridge across partner teams, aligning execution timelines and ensuring shared context across stakeholders.  
+
    - Assist in documentation, onboarding, and narrative alignment across the Ring ecosystem stack.
 
 2. **Community Activation & Feedback Loops**  
-   - Engage with users and contributors to gather real-time insights and pain points.  
-   - Relay feedback directly to technical and leadership teams to inform priorities and iteration cycles.  
+   - Engage with users and contributors to gather real-time insights and pain points.
+   - - Synthesize insights and convert them into actionable product, UX, and messaging recommendations—especially for DeGov's governance UX and Helixbox onboarding flow.  
+   - Relay feedback directly to technical and leadership teams to inform priorities and iteration cycles.
+   - Own updates across Twitter, Mirror, and governance channels to ensure transparency and engagement 
    - Curate and deliver consistent community updates across relevant channels.
 
 3. **Cross-Ecosystem Coordination**  
    - Interface with other ecosystem contributors and service providers to synchronize messaging and activity.  
-   - Maintain a shared roadmap and ensure execution aligns with core protocol goals.
+   - Maintain a shared roadmap spanning DeGov, Helixbox, and core protocol milestones, surfacing areas for collaboration or resourcing.
 
 4. **Content & Education**  
    - Develop and maintain ecosystem documentation, walkthroughs, and onboarding flows.  
