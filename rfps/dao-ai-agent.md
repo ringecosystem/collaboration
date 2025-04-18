@@ -66,7 +66,7 @@ We propose a phased approach to develop an open-source, cross-chain DAO applicat
   1. **Proposal Monitoring and Agent Trigger Mechanism**  
      - Establish a monitoring system that tracks proposal events in real-time. Upon detecting a new proposal, the system should prompt the Agent to utilize the Model Context Protocol (MCP) to perform relevant tasks.
      - Implementation Approach
-       - **Proposal Listener**: Utilize existing APIs (e.g., Subsquare, Snapshot) or RSS feeds to monitor the creation, updates, and status changes of proposals.
+       - **Proposal Listener**: Utilize DeGov.AI APIs or indexer APIs to monitor the creation, updates, and status changes of proposals.
        - **Event Trigger**: When the listener detects a new proposal event, it should trigger the Agent to execute corresponding tasks, such as generating summaries or sending comment reminders.
      - Build a prototype based on existing AI Agent frameworks, enabling proposal reading, social media interaction (e.g., automated commenting and vote outreach), and on-chain voting.  
   2. **MCP Server Integration**  
