@@ -58,7 +58,7 @@ We propose a phased approach to develop an open-source, cross-chain DAO applicat
   - Provide a user-friendly UI and interaction experience.  
 - References: [DeGov.AI Grant Phase 2](https://github.com/ringecosystem/collaboration/blob/master/grant/projects/degov-phase-2.md)
 
-### Phase 3: AI Agent Delegation
+### Phase 3: AI Agentic Delegate
 - **Objective**: Leverage existing AI Agent frameworks to develop automated governance functions and test their applications.  
 - **Duration**: 1 months  
 - **Budget**: 2,000 USD  
@@ -67,29 +67,50 @@ We propose a phased approach to develop an open-source, cross-chain DAO applicat
      - Establish a monitoring system that tracks proposal events in real-time. Upon detecting a new proposal, the system should prompt the Agent to utilize the Model Context Protocol (MCP) to perform relevant tasks.
      - Implementation Approach
        - **Proposal Listener**: Utilize DeGov.AI APIs or indexer APIs to monitor the creation, updates, and status changes of proposals.
-       - **Event Trigger**: When the listener detects a new proposal event, it should trigger the Agent to execute corresponding tasks, such as generating summaries or sending comment reminders.
-     - Build a prototype based on existing AI Agent frameworks, enabling proposal reading, social media interaction (e.g., automated commenting and vote outreach), and on-chain voting.  
+       - **Event Trigger**: When the listener detects a new proposal event, it should trigger the Agent to execute corresponding tasks, such as generating summaries or sending comment reminders. 
   2. **MCP Server Integration**  
      - Integrate existing open-source MCP Servers to implement the following functionalities, minimizing the need for custom development:
-       - - **Proposal Reading**: Parse proposal content to extract key information.
+       - **Proposal Reading**: Parse proposal content to extract key information.
        - **Proposal Comment Reminders**: Monitor the proposal's comment section and notify relevant stakeholders of new discussions.
        - **Community Summarization**: Aggregate discussions from social media platforms and generate concise summaries.
        - **On-Chain Voting**: Execute on-chain voting operations through interfaces provided by MCP Servers.
        - **Social Media Interaction**: Integrate with social media platforms to automate interaction processes.
-  3. **Recommendations for RFP Inclusion**
+  3. **Setup AI Agentic Delegate on DeGov.AI Platfrom** (To be supported by existing ecosystem service providers)
+     - Reference: https://github.com/ringecosystem/degov/issues/121
+  4. **Recommendations for RFP Inclusion**
      - **Programming Language**: Specify the programming language(s) intended for development (e.g., TypeScript).
      - **MCP SDK**: List the MCP SDK(s) planned for use, including their versions.
      - **Agent Framework**: Indicate the Agent framework or automation tools to be employed (e.g., OpenAI Agents SDK, LangChain).
      - **Language Model**: Clearly state the language model(s) to be utilized, along with their respective versions (e.g., Claude 3.5 Sonnet, OpenAI GPT-4).
      - **MCP Server Integration**: Enumerate the MCP Servers intended for integration and outline their specific functionalities.
 
-### Phase 4: Swarm Features Exploration (RFP in drafting)
-- **Objective**: Leverage existing AI Agent frameworks to develop automated governance functions and test their applications.  
-- **Duration**: 2-3 months  
-- **Budget**: 9500 USD  
+### Phase 4: Swarm Coordination Between Multiple Agentic Delegates (Optional， Researching)
+- **Background**: The DAO is already established and has deployed multiple AI Agentic Delegates. Accelerates proposal processing, reduces human intervention, and strengthens decentralized governance. 
+- **Objective**: To organize these Delegates into a collaborative AI Swarm, thereby enhancing the DAO's autonomy and decision-making efficiency.
+- **Duration**: 1 months  
+- **Budget**: 1000 USD
 - **Key Tasks**:    
-  - **AI Swarm Integration Design**  
-     - Design and propose features for autonomous DAO module creation and integration, focusing on Swarm decision-making capabilities.  
+  - **Solution and Design of Swarm Coordination for AI Agentic Delegates**
+     - Ensuring security and trust mechanisms to prevent potential misuse of authority by the Delegates.
+     - Coordination use cases between AI Agentic Delegates
+  - **References**
+    - https://github.com/openai/swarm
+
+### Phase 5: Creating AI Agent Swarm using DAO as as the Decision-Making Module (RFP in drafting)
+- **Objective**: Building an AI Swarm from Scratch and Transforming It into a Governable DAO
+- **Background**: The objective is to construct an AI Swarm composed of multiple AI agents, each representing distinct stakeholders with specific addresses and assigned weights.
+- **Requirements**: The Swarm must collaboratively manage certain permissions or assets and make decisions based on predefined rules, referred to as the Swarm Constitution.
+- **Duration**: 2-3 months
+- **Budget**: 8500 USD  
+- **Key Tasks**:    
+   - **Solution**:
+     1. **On-Chain Governance Rules**: Record all agent addresses, weights, permissions, and governance rules on the blockchain to establish a DAO.
+     2. **Automated Deployment**: Utilize the above information to automatically deploy DAO smart contracts, generating a DAO Treasury address.
+     3. **Token Distribution**: Distribute governance tokens to each agent owner's address proportionally based on their assigned weights.
+     4. **Binding Agentic Delegates**: Employ DeGov.AI's technology to create an Agentic Delegate for each owner address and bind it to the corresponding AI agent's session key.
+     5. **Asset Management**: All permissions and assets are within the DAO's Treasury address, managed collectively by the Swarm according to the predefined rules.
+   - **Advantages**: This approach enables the AI Swarm to achieve full autonomy with governance capabilities, allowing it to independently manage assets and permissions.
+   - **Challenges**: Ensuring the security of smart contracts and the rationality of governance rules is crucial to prevent potential governance attacks.
 
 ---
 
@@ -103,17 +124,6 @@ We propose a phased approach to develop an open-source, cross-chain DAO applicat
 
 3. **AI-Driven Governance Efficiency**  
    - Introduce AI Agent capabilities to lower governance costs, improve participation, and drive the development of a second Fat App ecosystem beyond DeFi for RingDAO.  
-
----
-
-## Timeline and Total Budget
-
-| Phase       | Duration      | Budget      |
-|-------------|---------------|-------------|
-| Phase 1     | 1 month       | 2,500 USD   |
-| Phase 2     | 2 weeks       | 1,000 USD   |
-| Phase 3     | 3-4 months    | 12,000 USD  |
-| **Total**   | **4-5 months**| **15,500 USD** |
 
 ---
 
