@@ -76,7 +76,7 @@ We propose a phased approach to develop an open-source, cross-chain DAO applicat
        - **On-Chain Voting**: Execute on-chain voting operations through interfaces provided by MCP Servers.
        - **Social Media Interaction**: Integrate with social media platforms to automate interaction processes.
   3. **Setup AI Agentic Delegate on DeGov.AI Platfrom** (To be supported by existing ecosystem service providers)
-     - AI agent key management and how to bind agent keys to Delegate: https://github.com/ringecosystem/degov/issues/121
+     - AI agent session key management and how to bind agent session key to Agentic Delegate: https://github.com/ringecosystem/degov/issues/121
   4. **Recommendations for RFP Inclusion**
      - **Programming Language**: Specify the programming language(s) intended for development (e.g., TypeScript).
      - **MCP SDK**: List the MCP SDK(s) planned for use, including their versions.
