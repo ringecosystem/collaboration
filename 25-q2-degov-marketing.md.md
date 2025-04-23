@@ -1,6 +1,6 @@
 | applicant | type | timeline | cost | address |
 |-----------|------|----------|------|----------|
-| David | marketing services for DeGov.AI | 4 months | $2,000 + commission from hosting providers | 0x1116bFfe122485adDfF8d182CAA91C94B05E490C (Arbitrum) |
+| David | marketing services for DeGov.AI | 3 months | $1,500($500 monthly) | 0x1116bFfe122485adDfF8d182CAA91C94B05E490C (Arbitrum) |
 
 **Author**: David (PartnershipDude)
 
