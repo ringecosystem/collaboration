@@ -19,7 +19,7 @@ This project aims to develop an advanced DAO agent system that enhances governan
 
 ## Proposal Details
 
-### Expected Outcomes
+### Deliveries
 1. Open Source Code Repository
    - Complete source code for the DAO agent system
    - Build and deployment scripts
