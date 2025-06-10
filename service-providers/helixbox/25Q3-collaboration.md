@@ -1,7 +1,7 @@
 ---
 
 applicant: Helixbox
-type: Research, Development, and community building
+type: Research, Development and Community Building & Security Audit & Application Coordination
 timeline: 2025-Q3
 costs: 26,000 USD + 1,500 USD * runtime upgrade + 500 USD * hotfix 
 payment: 0xa8a0b5bEA167E9cDBaAAB52D9EF745Ea3c9fc73D (Ethereum, Base, Arbitrum, Optimism)
