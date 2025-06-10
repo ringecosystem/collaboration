@@ -3,8 +3,8 @@
 applicant: Helixbox
 type: Research, Development, and community building
 timeline: 2025-Q3
-costs: ? RING
-payment: 
+costs: 26,000 USD + 1,500 USD * runtime upgrade + 500 USD * hotfix 
+payment: 0xa8a0b5bEA167E9cDBaAAB52D9EF745Ea3c9fc73D (Ethereum, Base, Arbitrum, Optimism)
 
 ---
 
@@ -78,27 +78,18 @@ For the upcoming quarter, we will focus on the following areas:
 
 ## Ecosystem Integration and Development
 
-Continuously update the integration list to enhance the integrity and availability of the ecosystem. Ongoing progress can be tracked at [ringecosystem/integration](https://github.com/ringecosystem/integration).
+We will continue to drive the integration of third-party systems, there is a tracked list of integration tasks and progress at [ringecosystem/integration](https://github.com/ringecosystem/integration). We will focus on solving these integration tasks and enhancing the ecosystem's interoperability and functionality with the latest developments of the Web3 landscape.
 
-Improve the application server monitoring system to cover key indicators at the business and system levels, including performance, resource usage, error tracking, and alert configuration to ensure stability and rapid incident response.
+Besides, we will also focus on the following areas:
 
-Responsible for the daily maintenance of blockchain nodes, including version upgrades, network connections, block synchronization monitoring, and problem handling to ensure long-term stable operation.
+- **Improve the monitoring system**: Enhance the application server monitoring system to cover key indicators at the business and system levels, including performance, resource usage, error tracking, and alert configuration to ensure stability and rapid incident response.
+- **Daily Maintenance of Blockchain Nodes**: Responsible for the daily maintenance of blockchain nodes, including version upgrades, network connections, block synchronization monitoring, and problem handling to ensure long-term stable operation.
+- **Support CI/CD Pipeline Construction and Optimization**: Support the construction and optimization of CI/CD pipelines, including automated deployment, construction optimization, and troubleshooting, to improve development and operational efficiency.
 
-Support the construction and optimization of CI/CD pipelines, including automated deployment, construction optimization, and troubleshooting, to improve development and operational efficiency.
+## Helixbox AI development
 
+One of our key focuses for the upcoming quarter is the development of Helixbox AI, which aims to enhance the user experience and functionality of the Helixbox through AI-driven features. The main components of Helixbox AI include:
 
-## Devops Development and Maintenance
-
-
-## Helixbox AI
-
-**Helixbox MCP Server**
-- Integration of LiFi protocol tools for seamless cross-chain swaps and bridges
-
-**Helixbox MCP Client**
-- Intelligent middleware that processes and optimizes MCP server responses
-- Frontend-friendly data transformation and component generation
-
-**Helixbox AI Prompts & Intelligence Engine**
-- Natural language processing for intuitive user-AI interactions
-- Context-aware prompt optimization based on user behavior and preferences
+- **Helixbox MCP Server**: Integration of LiFi protocol tools for seamless cross-chain swaps and bridges, enabling users to perform cross-chain transactions efficiently.
+- **Helixbox MCP Client**: An intelligent middleware that processes and optimizes MCP server responses, transforming data into frontend-friendly formats and generating components for easier integration.
+- **Helixbox AI Prompts & Intelligence Engine**: A natural language processing engine that enables intuitive user-AI interactions, providing context-aware prompt optimization based on user behavior and preferences.
