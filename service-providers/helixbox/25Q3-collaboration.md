@@ -78,5 +78,13 @@ For the upcoming quarter, we will focus on the following areas:
 
 ## Ecosystem Integration and Development
 
+Continuously update the integration list to enhance the integrity and availability of the ecosystem. Ongoing progress can be tracked at [ringecosystem/integration](https://github.com/ringecosystem/integration).
+
+Improve the application server monitoring system to cover key indicators at the business and system levels, including performance, resource usage, error tracking, and alert configuration to ensure stability and rapid incident response.
+
+Responsible for the daily maintenance of blockchain nodes, including version upgrades, network connections, block synchronization monitoring, and problem handling to ensure long-term stable operation.
+
+Support the construction and optimization of CI/CD pipelines, including automated deployment, construction optimization, and troubleshooting, to improve development and operational efficiency.
+
 
 ## Devops Development and Maintenance
