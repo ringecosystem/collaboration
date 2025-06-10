@@ -88,3 +88,17 @@ Support the construction and optimization of CI/CD pipelines, including automate
 
 
 ## Devops Development and Maintenance
+
+
+## Helixbox AI
+
+**Helixbox MCP Server**
+- Integration of LiFi protocol tools for seamless cross-chain swaps and bridges
+
+**Helixbox MCP Client**
+- Intelligent middleware that processes and optimizes MCP server responses
+- Frontend-friendly data transformation and component generation
+
+**Helixbox AI Prompts & Intelligence Engine**
+- Natural language processing for intuitive user-AI interactions
+- Context-aware prompt optimization based on user behavior and preferences
