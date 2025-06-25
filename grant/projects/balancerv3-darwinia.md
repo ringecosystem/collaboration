@@ -45,7 +45,7 @@ The core functionalities of the AMM, including Pool Creation and Adding Liquidit
 
 ## Grant Information
 
-**Key Contributor**: Snoopy1412, Itering (Bear Wang, Echo Hu, Yalin Cai)
+**Key Contributor**: Snoopy1412, Helixbox (Bear Wang, Echo Hu, Yalin Cai)
 
 ### **Phase 1**
 
