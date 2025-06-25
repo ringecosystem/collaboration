@@ -83,4 +83,4 @@ The core functionalities of the AMM, including Pool Creation and Adding Liquidit
 
 ## Additional Information
 
-This project is a significant undertaking to enhance the DeFi capabilities of the Darwinia network. The Itering team, with its experience in the Darwinia ecosystem, is well-suited to execute this grant. Collaboration with the Balancer community and leveraging their existing open-source components will be key to successful delivery. The grant will cover the development effort required to fork, adapt, integrate, and test these components for the Darwinia Chain
+This project is a significant undertaking to enhance the DeFi capabilities of the Darwinia network. The Helixbox team, with its experience in the Darwinia ecosystem, is well-suited to execute this grant. Collaboration with the Balancer community and leveraging their existing open-source components will be key to successful delivery. The grant will cover the development effort required to fork, adapt, integrate, and test these components for the Darwinia Chain
