@@ -31,9 +31,9 @@ The core functionalities of the AMM, including Pool Creation and Adding Liquidit
 ### Team
 
 - [Snoopy1412](https://github.com/snoopy1412)
-- [Bear Wang](https://github.com/boundless-forest) from Itering
-- [Echo Hu](https://github.com/hujw77) from Itering
-- [Yalin Cai](https://github.com/fewensa) from Itering
+- [Bear Wang](https://github.com/boundless-forest) from Helixbox
+- [Echo Hu](https://github.com/hujw77) from Helixbox
+- [Yalin Cai](https://github.com/fewensa) from Helixbox
 
 ### Team Code Repos
 
