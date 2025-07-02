@@ -3,7 +3,7 @@
 applicant: Helixbox
 type: Research, Development and Community Building & Security Audit & Application Coordination
 timeline: 2025-Q3
-costs: 26,000 USD + 1,500 USD * runtime upgrade + 500 USD * hotfix 
+costs: 26,000 USD + 1,500 USD * runtime upgrade + 500 USD * hotfix(Payment in RING)
 payment: 0xa8a0b5bEA167E9cDBaAAB52D9EF745Ea3c9fc73D (Ethereum, Base, Arbitrum, Optimism)
 
 ---
@@ -28,7 +28,7 @@ In this application, we outline our team's expertise, the services we provide, a
 ## Contact Information
 
 - Contact name: Bear Wang
-- Contact email: bear.wang@itering.io
+- Contact email: bear.wang@helixbox.ai
 
 ## Legal Structure
 
@@ -86,10 +86,10 @@ Besides, we will also focus on the following areas:
 - **Daily Maintenance of Blockchain Nodes**: Responsible for the daily maintenance of blockchain nodes, including version upgrades, network connections, block synchronization monitoring, and problem handling to ensure long-term stable operation.
 - **Support CI/CD Pipeline Construction and Optimization**: Support the construction and optimization of CI/CD pipelines, including automated deployment, construction optimization, and troubleshooting, to improve development and operational efficiency.
 
-## Helixbox AI development
+## DeGov.AI Development and Support
 
-One of our key focuses for the upcoming quarter is the development of Helixbox AI, which aims to enhance the user experience and functionality of the Helixbox through AI-driven features. The main components of Helixbox AI include:
+DeGov.AI is a key application in the RingDAO ecosystem, and we will continue to develop and support it in the upcoming quarter. We will focus on the following areas:
 
-- **Helixbox MCP Server**: Integration of LiFi protocol tools for seamless cross-chain swaps and bridges, enabling users to perform cross-chain transactions efficiently.
-- **Helixbox MCP Client**: An intelligent middleware that processes and optimizes MCP server responses, transforming data into frontend-friendly formats and generating components for easier integration.
-- **Helixbox AI Prompts & Intelligence Engine**: A natural language processing engine that enables intuitive user-AI interactions, providing context-aware prompt optimization based on user behavior and preferences.
+- **Phase 2 Development**: After phase 3 delivery, we will put more effort into the delivery of phase 2, which includes the notification system, dao's settings, and other features.
+- **Phase 3 Enhancements**: We will continue to enhance the ai agent capabilities of DeGov.AI based on user feedback and community needs.
+- **Build DeGov for More DAOs**: We will work on building DeGov.AI for more DAOs in the Web3 ecosystem, and provide technical or community support in the process.
