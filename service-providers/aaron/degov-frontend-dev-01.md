@@ -1,12 +1,8 @@
----
-
 - **Applicant:** Aaron
 - **Type:** Frontend Development & Issue Resolution
 - **Timeline:** August 2025 – October 2025
 - **Investment:** 1,500 USDC (500 USDC/month)
 - **Address:** 0x3d6d656c1bf92f7028Ce4C352563E1C363C58ED5
-
----
 
 ## Team
 
