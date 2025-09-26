@@ -43,7 +43,7 @@ Monthly Reports:
 
 - July: https://medium.com/ringdao/monthly-sync-july-2025-329aa9f6f322
 - August: https://medium.com/ringdao/monthly-sync-august-2025-1f3e4a5f0f7c
-- September: In progress
+- September: https://medium.com/ringdao/monthly-report-sep-2025-ecc26722a5cc
 
 Some highlights:
 
