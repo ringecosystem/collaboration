@@ -23,7 +23,6 @@ In this proposal, we summarize our achievements from the previous quarter and ou
 - [Eve](https://x.com/drivenpassion_) Marketing Manager & Community Builder
 - [Bear Wang](https://github.com/boundless-forest) Project Manager & Community Coordinator
 - [Yalin Cai](https://github.com/fewensa) Core Developer & DevOps
-- [Guantong Ji](https://github.com/jiguantong) Core Developer
 - [Xavier Lau](https://github.com/AurevoirXavier) Core Developer
 
 ## Contact Information
