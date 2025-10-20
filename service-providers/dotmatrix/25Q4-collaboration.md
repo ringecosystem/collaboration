@@ -1,61 +1,45 @@
-# Q4 2025 Marketing Proposal - DeGov & RingDAO Ecosystem
+# Q4 2025 Marketing Proposal - DeGov
 **DotMatrix LLP - Furqan Ahmed**
 
-## Role: Marketing Lead
+## Role: Twitter Spaces & Community Engagement
 
-Based on the roundtable discussion and team feedback, I'm proposing to take on the Marketing Lead role for Q4, focusing on marketing strategy, team coordination, and ecosystem support.
+Based on the [Q4 marketing strategy](https://docs.google.com/document/d/1jHRyWp1LHpEdjg23iGyN8l6ErLQHWLZsBpbAmgmMWAI/edit?tab=t.0#heading=h.gct2345syjqo), I'll support DeGov's community engagement through weekly Twitter Spaces and related activities.
 
 ---
 
 ## Scope of Work
 
-### 1. Marketing Strategy & Coordination
-- Develop Q4 marketing strategy and maintain bi-weekly plans
-- Coordinate marketing activities across team members (David, Saso, Laki, Eve)
-- Track progress on key initiatives and identify blockers
-- Provide strategic guidance on marketing priorities
+### Twitter Spaces - Weekly
+- Host weekly Twitter Spaces focused on DAO governance
+- Coordinate X Spaces Promotion through Twitter and Telegram
+- Drive awareness for DeGov.AI in the governance community
 
-### 2. Ecosystem Support & Partnerships
-- Provide strategic guidance to David on partnership and project connections
-- Review and advise on partnership outreach approach
-- Support ecosystem relationship building as needed
-- Attend conferences/events if budget is allocated
-
-### 3. Marketing Execution Support
-- Oversee social media strategy and content direction
-- Guide community engagement initiatives
-- Support product positioning and messaging for DeGov
-- Identify opportunities for marketing budget allocation and advocacy
-
-### 4. Team Communication
-- Bi-weekly team sync meetings for planning and progress review
-- Regular async updates and coordination with team
-- Monthly updates to Bear on activities and progress
-- Flag issues and resource needs proactively
+### Supporting Activities
+- Promote DeGov updates and features through Spaces discussions
+- Coordinate with team on relevant topics and guests for Spaces
 
 ---
 
 ## Working Structure
 
-**Bi-weekly Cadence:**
-- Every other Week: Team planning call
-- Async: Task coordination and execution support
-- Monthly: Progress summary
+**Weekly:**
+- 1x Twitter Space (~2-3 hours including prep and hosting)
+
+**Communication:**
+- Async updates in Telegram
+- Monthly brief summary
 
 ---
 
 ## Investment
 
-**Monthly Compensation:** $2,000 USD
+**Monthly Compensation:** $1,000 USD
 - Payment structure: 10% in RING (monthly average price) + 90% in USDC
 - Paid monthly upon submission of monthly report
 
 **Timeline:** Q4 2025 (October - December)
 
-**Review:** End of Month 2 of Q4 to assess continuation for Q1 2026
-
 ---
-
 
 **Furqan Ahmed**  
 DotMatrix LLP  
