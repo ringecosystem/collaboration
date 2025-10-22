@@ -37,7 +37,7 @@ Based on the [Q4 marketing strategy](https://docs.google.com/document/d/1jHRyWp1
 - Payment structure: 10% in RING (monthly average price) + 90% in USDC
 - Paid monthly upon submission of monthly report
 
-**Timeline:** Q4 2025 (October - December)
+**Timeline:** Monthly - Indefiniate - Based on mutual agreement
 
 ---
 
