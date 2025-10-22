@@ -1,4 +1,4 @@
-# Q4 2025 Marketing Proposal - DeGov
+# DeGov.AI Marketing Collaboration Proposal
 **DotMatrix LLP - Furqan Ahmed**
 
 ## Role: Twitter Spaces & Community Engagement
