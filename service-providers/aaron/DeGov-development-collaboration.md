@@ -1,7 +1,7 @@
 **Applicant:** Aaron (@snoopy1412.su)
 
 - **Role:** Resident Frontend Developer (Frontend Development & Issue Resolution)
-- **Address:** `0x3d6d656c1bf92f7028Ce4C352563E1C363C58ED5`
+- **Address:** `0xa57fc14e99552b3275853719fb1e04b9eabf09bf`
 - **Investment:** 500 USDC/month
 - **Contact:** [snoopy1412.su@gmail.com](mailto:snoopy1412.su@gmail.com)
 
