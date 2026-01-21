@@ -72,5 +72,3 @@ DeGovX is also a key part of our marketing strategy to drive traffic to DeGov.AI
 Beyond these two main products, we will actively explore collaboration opportunities with other ecosystems to find new customers for DeGov.AI. In the previous quarter, we initiated exploration with the Sky ecosystem, and we will continue to follow up on this opportunity.
 
 In summary, our primary focus this quarter is the DAO governance space: polishing our existing products under the DeGov.AI umbrella and actively seeking collaboration opportunities to onboard more DAOs, ultimately generating revenue to sustain project development.
-
-
