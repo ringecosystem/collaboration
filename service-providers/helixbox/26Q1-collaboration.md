@@ -3,7 +3,7 @@
 applicant: Helixbox
 type: Research, Development, Community Building, Security Audit, and Application Coordination
 timeline: 2026-Q1
-costs: 36,000 USD + 1,500 USD * runtime upgrade + 500 USD * hotfix (Payment in RING)
+costs: 30,000 USD + 1,500 USD * runtime upgrade + 500 USD * hotfix
 payment: 0xa8a0b5bEA167E9cDBaAAB52D9EF745Ea3c9fc73D (Ethereum, Base, Arbitrum, Optimism)
 
 ---
@@ -20,9 +20,8 @@ Looking ahead to 2026, we are filled with enthusiasm and determination. In this 
 
 - [Denny Wang](https://github.com/hackfisher) Architect & Security Specialist
 - [Echo Hu](https://github.com/hujw77) Smart Contract Developer & Security Auditor
-- [Eve](https://x.com/drivenpassion_) Marketing Manager & Community Builder
 - [Bear Wang](https://github.com/boundless-forest) Project Manager & Community Coordinator
-- [Yalin Cai](https://github.com/fewensa) Core Developer & DevOps
+- [YaLin Cai](https://github.com/fewensa) Core Developer & DevOps
 - [Xavier Lau](https://github.com/AurevoirXavier) Core Developer
 
 ## Contact Information
@@ -62,6 +61,7 @@ In addition to security audits, we will continue to provide maintenance services
 - **Chain Maintenance and Upgrades**: As we proceed with the Crab chain sunset this quarter, our primary focus will shift to the maintenance and upgrade of the Darwinia chain. We will monitor chain performance and stability, fix bugs, and implement necessary upgrades or improvements.
 - **Application Maintenance and Upgrades**: We will continue to maintain and upgrade existing applications within the RingDAO ecosystem, such as the bridge, DEX, and other dApps. This involves bug fixing, performance improvements, and feature additions as needed, ensuring applications run smoothly and efficiently for users.
 - **Community Support**: We will continue to provide community support for various organizations within the RingDAO ecosystem, such as KtonDAO and RCG. This includes answering questions, offering technical assistance, and addressing community concerns.
+- **Infrastructure Maintenance Cost Improvements**: We have actively explored ways to reduce infrastructure maintenance costs for the RingDAO ecosystem, such as optimizing server configurations and exploring more cost-effective hosting solutions. We have some initial ideas and will continue to pursue them this quarter.
 
 ## DeGov.AI Development and Marketing
 
