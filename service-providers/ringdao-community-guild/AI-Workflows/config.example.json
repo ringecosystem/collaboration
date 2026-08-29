@@ -1,0 +1,9 @@
+{
+  "cloudinary_cloud_name": "your-cloud-name",
+  "cloudinary_upload_preset": "your-unsigned-upload-preset",
+  "ifttt_event": "your_ifttt_event",
+  "ifttt_key_file": ".secrets/ifttt_key",
+  "state_file": ".state/last-post.json",
+  "max_image_mb": 10,
+  "max_post_characters": 280
+}
