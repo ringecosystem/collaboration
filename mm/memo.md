@@ -17,3 +17,11 @@ Remove CoW AMM liquidity:
 https://arbiscan.io/tx/0x9e94ebeabb8c0e9daddaffd415858a7684317129b874d080f9188ba718c45b4c
 Add UniswapV4 liquidity:
 https://arbiscan.io/tx/0xcd755de83e22cdee7bd0433bb1cec5a669458fbdfba1b11f7cdd2bcf32764937
+
+
+9 Sept 2026
+
+Input: 5K USDC
+
+https://basescan.org/tx/0x000560db17ac2f7eb6f29e13ecbc7bbf0fd9fafd7243a6642a8763f7517a6ecc
+https://basescan.org/tx/0xd112f038fab6243c015c381f39273934d904d0ef977595d5ff55ce784608e1d8
