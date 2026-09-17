@@ -25,3 +25,10 @@ Input: 5K USDC
 
 https://basescan.org/tx/0x000560db17ac2f7eb6f29e13ecbc7bbf0fd9fafd7243a6642a8763f7517a6ecc
 https://basescan.org/tx/0xd112f038fab6243c015c381f39273934d904d0ef977595d5ff55ce784608e1d8
+
+
+10M RING OTC Swap between Arbitrum and Etheruem
+
+https://etherscan.io/tx/0x00159eed848d0b45159a882898bd7b495264047799967b7d4aa3f2236549f9ae
+
+https://arbiscan.io/tx/0x8574733003d4470c7f5f8dd5b26f8177f50743cd0419f006949ae6804b4fe6a5
