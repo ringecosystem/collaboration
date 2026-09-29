@@ -32,3 +32,9 @@ https://basescan.org/tx/0xd112f038fab6243c015c381f39273934d904d0ef977595d5ff55ce
 https://etherscan.io/tx/0x00159eed848d0b45159a882898bd7b495264047799967b7d4aa3f2236549f9ae
 
 https://arbiscan.io/tx/0x8574733003d4470c7f5f8dd5b26f8177f50743cd0419f006949ae6804b4fe6a5
+
+
+15M RING OTC Swap between Arbitrum and Etheruem
+https://etherscan.io/tx/0x12fdebd3767469eb03904268dce2bcf27081acde5e5a0a584590dc977675fc06
+https://arbiscan.io/tx/0xe23703a667abd3a62f8ac3395f759a1a513b8b12de5eae0186c8ac8cd011af34
+
